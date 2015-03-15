@@ -1,0 +1,9 @@
+d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\4chan Archiver.exe.config
+d:\documents\visual studio 2013\Projects\4chan Archiver\obj\Debug\4chan Archiver.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\4chan Archiver\obj\Debug\_4chan_Archiver.frm4ChanMain.resources
+d:\documents\visual studio 2013\Projects\4chan Archiver\obj\Debug\_4chan_Archiver.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\4chan Archiver\obj\Debug\4chan Archiver.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\4chan Archiver.exe
+d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\4chan Archiver.pdb
+d:\documents\visual studio 2013\Projects\4chan Archiver\obj\Debug\4chan Archiver.exe
+d:\documents\visual studio 2013\Projects\4chan Archiver\obj\Debug\4chan Archiver.pdb

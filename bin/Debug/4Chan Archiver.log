@@ -1,0 +1,1548 @@
+2014-08-31 4:30:04 PM - Logging started
+2014-08-31 4:30:06 PM - Logging stopped.
+2014-08-31 4:34:42 PM - Logging started
+2014-08-31 4:34:44 PM - Logging stopped.
+2014-08-31 4:38:12 PM - Logging started
+2014-08-31 4:38:12 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-08-31 4:38:14 PM - Logging stopped.
+2014-08-31 4:39:06 PM - Logging started
+2014-08-31 4:39:06 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-08-31 4:39:09 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-08-31 4:39:10 PM - URL was valid.
+2014-08-31 4:39:10 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-08-31 4:39:10 PM - Creating TXT file
+2014-08-31 4:39:10 PM - Writing TXT file.
+2014-08-31 4:39:10 PM - TXT file written successfully.
+2014-08-31 4:40:17 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-08-31 4:40:17 PM - Download Request
+2014-08-31 4:40:17 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-08-31 4:40:18 PM - Downloading full thread.
+2014-08-31 4:40:18 PM - Finding files in thread: "wg/5911440"
+2014-08-31 4:40:18 PM - Found 365 matches.
+2014-08-31 4:40:18 PM - Downloading file: "https://s.4cdn.org/image/favicon.ico" to "C:\4Chan Archives\wg\5911440\favicon.ico"
+2014-08-31 4:40:18 PM - Downloading file: "https://s.4cdn.org/css/yotsubanew.568.css" to "C:\4Chan Archives\wg\5911440\yotsubanew.568.css"
+2014-08-31 4:40:19 PM - Downloading file: "https://s.4cdn.org/css/yotsubluenew.568.css" to "C:\4Chan Archives\wg\5911440\yotsubluenew.568.css"
+2014-08-31 4:40:19 PM - Downloading file: "https://s.4cdn.org/css/futabanew.568.css" to "C:\4Chan Archives\wg\5911440\futabanew.568.css"
+2014-08-31 4:40:19 PM - Downloading file: "https://s.4cdn.org/css/burichannew.568.css" to "C:\4Chan Archives\wg\5911440\burichannew.568.css"
+2014-08-31 4:40:19 PM - Downloading file: "https://s.4cdn.org/css/photon.568.css" to "C:\4Chan Archives\wg\5911440\photon.568.css"
+2014-08-31 4:40:19 PM - Downloading file: "https://s.4cdn.org/css/tomorrow.568.css" to "C:\4Chan Archives\wg\5911440\tomorrow.568.css"
+2014-08-31 4:40:19 PM - Downloading file: "https://s.4cdn.org/css/yotsubamobile.568.css" to "C:\4Chan Archives\wg\5911440\yotsubamobile.568.css"
+2014-08-31 4:40:19 PM - Downloading file: "https://s.4cdn.org/js/core.869.js" to "C:\4Chan Archives\wg\5911440\core.869.js"
+2014-08-31 4:40:19 PM - Downloading file: "https://s.4cdn.org/js/extension.869.js" to "C:\4Chan Archives\wg\5911440\extension.869.js"
+2014-08-31 4:40:20 PM - Downloading file: "https://0.t.4cdn.org/wg/1409291383441s.jpg" to "C:\4Chan Archives\wg\5911440\1409291383441s.jpg"
+2014-08-31 4:40:20 PM - Downloading file: "https://1.t.4cdn.org/wg/1409291751890s.jpg" to "C:\4Chan Archives\wg\5911440\1409291751890s.jpg"
+2014-08-31 4:40:21 PM - Downloading file: "https://0.t.4cdn.org/wg/1409291763509s.jpg" to "C:\4Chan Archives\wg\5911440\1409291763509s.jpg"
+2014-08-31 4:40:21 PM - Downloading file: "https://1.t.4cdn.org/wg/1409292170742s.jpg" to "C:\4Chan Archives\wg\5911440\1409292170742s.jpg"
+2014-08-31 4:40:21 PM - Downloading file: "https://0.t.4cdn.org/wg/1409293599984s.jpg" to "C:\4Chan Archives\wg\5911440\1409293599984s.jpg"
+2014-08-31 4:40:21 PM - Downloading file: "https://1.t.4cdn.org/wg/1409293688084s.jpg" to "C:\4Chan Archives\wg\5911440\1409293688084s.jpg"
+2014-08-31 4:40:21 PM - Downloading file: "https://0.t.4cdn.org/wg/1409294455589s.jpg" to "C:\4Chan Archives\wg\5911440\1409294455589s.jpg"
+2014-08-31 4:40:21 PM - Downloading file: "https://1.t.4cdn.org/wg/1409295227968s.jpg" to "C:\4Chan Archives\wg\5911440\1409295227968s.jpg"
+2014-08-31 4:40:21 PM - Downloading file: "https://0.t.4cdn.org/wg/1409295260978s.jpg" to "C:\4Chan Archives\wg\5911440\1409295260978s.jpg"
+2014-08-31 4:40:21 PM - Downloading file: "https://1.t.4cdn.org/wg/1409296388532s.jpg" to "C:\4Chan Archives\wg\5911440\1409296388532s.jpg"
+2014-08-31 4:40:21 PM - Downloading file: "https://0.t.4cdn.org/wg/1409296967935s.jpg" to "C:\4Chan Archives\wg\5911440\1409296967935s.jpg"
+2014-08-31 4:40:21 PM - Downloading file: "https://1.t.4cdn.org/wg/1409297669553s.jpg" to "C:\4Chan Archives\wg\5911440\1409297669553s.jpg"
+2014-08-31 4:40:21 PM - Downloading file: "https://0.t.4cdn.org/wg/1409299759519s.jpg" to "C:\4Chan Archives\wg\5911440\1409299759519s.jpg"
+2014-08-31 4:40:22 PM - Downloading file: "https://1.t.4cdn.org/wg/1409300437485s.jpg" to "C:\4Chan Archives\wg\5911440\1409300437485s.jpg"
+2014-08-31 4:40:22 PM - Downloading file: "https://0.t.4cdn.org/wg/1409301197846s.jpg" to "C:\4Chan Archives\wg\5911440\1409301197846s.jpg"
+2014-08-31 4:40:22 PM - Downloading file: "https://1.t.4cdn.org/wg/1409301269961s.jpg" to "C:\4Chan Archives\wg\5911440\1409301269961s.jpg"
+2014-08-31 4:40:22 PM - Downloading file: "https://0.t.4cdn.org/wg/1409301996143s.jpg" to "C:\4Chan Archives\wg\5911440\1409301996143s.jpg"
+2014-08-31 4:40:22 PM - Downloading file: "https://1.t.4cdn.org/wg/1409309128195s.jpg" to "C:\4Chan Archives\wg\5911440\1409309128195s.jpg"
+2014-08-31 4:40:22 PM - Downloading file: "https://0.t.4cdn.org/wg/1409322125037s.jpg" to "C:\4Chan Archives\wg\5911440\1409322125037s.jpg"
+2014-08-31 4:40:22 PM - Downloading file: "https://1.t.4cdn.org/wg/1409323892768s.jpg" to "C:\4Chan Archives\wg\5911440\1409323892768s.jpg"
+2014-08-31 4:40:22 PM - Downloading file: "https://0.t.4cdn.org/wg/1409331520547s.jpg" to "C:\4Chan Archives\wg\5911440\1409331520547s.jpg"
+2014-08-31 4:40:22 PM - Downloading file: "https://1.t.4cdn.org/wg/1409335023076s.jpg" to "C:\4Chan Archives\wg\5911440\1409335023076s.jpg"
+2014-08-31 4:40:22 PM - Downloading file: "https://0.t.4cdn.org/wg/1409336013097s.jpg" to "C:\4Chan Archives\wg\5911440\1409336013097s.jpg"
+2014-08-31 4:40:22 PM - Downloading file: "https://1.t.4cdn.org/wg/1409336167215s.jpg" to "C:\4Chan Archives\wg\5911440\1409336167215s.jpg"
+2014-08-31 4:40:22 PM - Downloading file: "https://0.t.4cdn.org/wg/1409336169281s.jpg" to "C:\4Chan Archives\wg\5911440\1409336169281s.jpg"
+2014-08-31 4:40:23 PM - Downloading file: "https://1.t.4cdn.org/wg/1409337787067s.jpg" to "C:\4Chan Archives\wg\5911440\1409337787067s.jpg"
+2014-08-31 4:40:23 PM - Downloading file: "https://0.t.4cdn.org/wg/1409338534548s.jpg" to "C:\4Chan Archives\wg\5911440\1409338534548s.jpg"
+2014-08-31 4:40:23 PM - Downloading file: "https://1.t.4cdn.org/wg/1409339602210s.jpg" to "C:\4Chan Archives\wg\5911440\1409339602210s.jpg"
+2014-08-31 4:40:23 PM - Downloading file: "https://0.t.4cdn.org/wg/1409350863833s.jpg" to "C:\4Chan Archives\wg\5911440\1409350863833s.jpg"
+2014-08-31 4:40:23 PM - Downloading file: "https://1.t.4cdn.org/wg/1409353663452s.jpg" to "C:\4Chan Archives\wg\5911440\1409353663452s.jpg"
+2014-08-31 4:40:23 PM - Downloading file: "https://0.t.4cdn.org/wg/1409357192081s.jpg" to "C:\4Chan Archives\wg\5911440\1409357192081s.jpg"
+2014-08-31 4:40:23 PM - Downloading file: "https://1.t.4cdn.org/wg/1409357885619s.jpg" to "C:\4Chan Archives\wg\5911440\1409357885619s.jpg"
+2014-08-31 4:40:23 PM - Downloading file: "https://0.t.4cdn.org/wg/1409358331735s.jpg" to "C:\4Chan Archives\wg\5911440\1409358331735s.jpg"
+2014-08-31 4:40:24 PM - Downloading file: "https://1.t.4cdn.org/wg/1409358409932s.jpg" to "C:\4Chan Archives\wg\5911440\1409358409932s.jpg"
+2014-08-31 4:40:24 PM - Downloading file: "https://0.t.4cdn.org/wg/1409358877080s.jpg" to "C:\4Chan Archives\wg\5911440\1409358877080s.jpg"
+2014-08-31 4:40:24 PM - Downloading file: "https://1.t.4cdn.org/wg/1409358935186s.jpg" to "C:\4Chan Archives\wg\5911440\1409358935186s.jpg"
+2014-08-31 4:40:24 PM - Downloading file: "https://0.t.4cdn.org/wg/1409359870303s.jpg" to "C:\4Chan Archives\wg\5911440\1409359870303s.jpg"
+2014-08-31 4:40:24 PM - Downloading file: "https://1.t.4cdn.org/wg/1409360592441s.jpg" to "C:\4Chan Archives\wg\5911440\1409360592441s.jpg"
+2014-08-31 4:40:24 PM - Downloading file: "https://0.t.4cdn.org/wg/1409360627859s.jpg" to "C:\4Chan Archives\wg\5911440\1409360627859s.jpg"
+2014-08-31 4:40:24 PM - Downloading file: "https://1.t.4cdn.org/wg/1409360691219s.jpg" to "C:\4Chan Archives\wg\5911440\1409360691219s.jpg"
+2014-08-31 4:40:24 PM - Downloading file: "https://0.t.4cdn.org/wg/1409360883808s.jpg" to "C:\4Chan Archives\wg\5911440\1409360883808s.jpg"
+2014-08-31 4:40:25 PM - Downloading file: "https://1.t.4cdn.org/wg/1409360897998s.jpg" to "C:\4Chan Archives\wg\5911440\1409360897998s.jpg"
+2014-08-31 4:40:25 PM - Downloading file: "https://0.t.4cdn.org/wg/1409361012232s.jpg" to "C:\4Chan Archives\wg\5911440\1409361012232s.jpg"
+2014-08-31 4:40:25 PM - Downloading file: "https://1.t.4cdn.org/wg/1409361594558s.jpg" to "C:\4Chan Archives\wg\5911440\1409361594558s.jpg"
+2014-08-31 4:40:25 PM - Downloading file: "https://0.t.4cdn.org/wg/1409362330481s.jpg" to "C:\4Chan Archives\wg\5911440\1409362330481s.jpg"
+2014-08-31 4:40:25 PM - Downloading file: "https://1.t.4cdn.org/wg/1409362530378s.jpg" to "C:\4Chan Archives\wg\5911440\1409362530378s.jpg"
+2014-08-31 4:40:25 PM - Downloading file: "https://0.t.4cdn.org/wg/1409363083373s.jpg" to "C:\4Chan Archives\wg\5911440\1409363083373s.jpg"
+2014-08-31 4:40:25 PM - Downloading file: "https://1.t.4cdn.org/wg/1409363174632s.jpg" to "C:\4Chan Archives\wg\5911440\1409363174632s.jpg"
+2014-08-31 4:40:25 PM - Downloading file: "https://0.t.4cdn.org/wg/1409364290075s.jpg" to "C:\4Chan Archives\wg\5911440\1409364290075s.jpg"
+2014-08-31 4:40:25 PM - Downloading file: "https://1.t.4cdn.org/wg/1409372442709s.jpg" to "C:\4Chan Archives\wg\5911440\1409372442709s.jpg"
+2014-08-31 4:40:25 PM - Downloading file: "https://0.t.4cdn.org/wg/1409373371137s.jpg" to "C:\4Chan Archives\wg\5911440\1409373371137s.jpg"
+2014-08-31 4:40:25 PM - Downloading file: "https://1.t.4cdn.org/wg/1409373664864s.jpg" to "C:\4Chan Archives\wg\5911440\1409373664864s.jpg"
+2014-08-31 4:40:26 PM - Downloading file: "https://0.t.4cdn.org/wg/1409374506323s.jpg" to "C:\4Chan Archives\wg\5911440\1409374506323s.jpg"
+2014-08-31 4:40:26 PM - Downloading file: "https://1.t.4cdn.org/wg/1409374553266s.jpg" to "C:\4Chan Archives\wg\5911440\1409374553266s.jpg"
+2014-08-31 4:40:26 PM - Downloading file: "https://0.t.4cdn.org/wg/1409403070041s.jpg" to "C:\4Chan Archives\wg\5911440\1409403070041s.jpg"
+2014-08-31 4:40:26 PM - Downloading file: "https://1.t.4cdn.org/wg/1409403687406s.jpg" to "C:\4Chan Archives\wg\5911440\1409403687406s.jpg"
+2014-08-31 4:40:26 PM - Downloading file: "https://0.t.4cdn.org/wg/1409405295620s.jpg" to "C:\4Chan Archives\wg\5911440\1409405295620s.jpg"
+2014-08-31 4:40:26 PM - Downloading file: "https://1.t.4cdn.org/wg/1409405930555s.jpg" to "C:\4Chan Archives\wg\5911440\1409405930555s.jpg"
+2014-08-31 4:40:26 PM - Downloading file: "https://0.t.4cdn.org/wg/1409412658169s.jpg" to "C:\4Chan Archives\wg\5911440\1409412658169s.jpg"
+2014-08-31 4:40:26 PM - Downloading file: "https://1.t.4cdn.org/wg/1409412821355s.jpg" to "C:\4Chan Archives\wg\5911440\1409412821355s.jpg"
+2014-08-31 4:40:26 PM - Downloading file: "https://0.t.4cdn.org/wg/1409413330706s.jpg" to "C:\4Chan Archives\wg\5911440\1409413330706s.jpg"
+2014-08-31 4:40:26 PM - Downloading file: "https://1.t.4cdn.org/wg/1409413592434s.jpg" to "C:\4Chan Archives\wg\5911440\1409413592434s.jpg"
+2014-08-31 4:40:26 PM - Downloading file: "https://0.t.4cdn.org/wg/1409413932426s.jpg" to "C:\4Chan Archives\wg\5911440\1409413932426s.jpg"
+2014-08-31 4:40:26 PM - Downloading file: "https://1.t.4cdn.org/wg/1409414002138s.jpg" to "C:\4Chan Archives\wg\5911440\1409414002138s.jpg"
+2014-08-31 4:40:27 PM - Downloading file: "https://0.t.4cdn.org/wg/1409414415930s.jpg" to "C:\4Chan Archives\wg\5911440\1409414415930s.jpg"
+2014-08-31 4:40:27 PM - Downloading file: "https://1.t.4cdn.org/wg/1409416431768s.jpg" to "C:\4Chan Archives\wg\5911440\1409416431768s.jpg"
+2014-08-31 4:40:27 PM - Downloading file: "https://0.t.4cdn.org/wg/1409416559241s.jpg" to "C:\4Chan Archives\wg\5911440\1409416559241s.jpg"
+2014-08-31 4:40:27 PM - Downloading file: "https://1.t.4cdn.org/wg/1409416911220s.jpg" to "C:\4Chan Archives\wg\5911440\1409416911220s.jpg"
+2014-08-31 4:40:27 PM - Downloading file: "https://0.t.4cdn.org/wg/1409423220994s.jpg" to "C:\4Chan Archives\wg\5911440\1409423220994s.jpg"
+2014-08-31 4:40:27 PM - Downloading file: "https://1.t.4cdn.org/wg/1409423676869s.jpg" to "C:\4Chan Archives\wg\5911440\1409423676869s.jpg"
+2014-08-31 4:40:27 PM - Downloading file: "https://0.t.4cdn.org/wg/1409423820394s.jpg" to "C:\4Chan Archives\wg\5911440\1409423820394s.jpg"
+2014-08-31 4:40:27 PM - Downloading file: "https://1.t.4cdn.org/wg/1409423887577s.jpg" to "C:\4Chan Archives\wg\5911440\1409423887577s.jpg"
+2014-08-31 4:40:27 PM - Downloading file: "https://0.t.4cdn.org/wg/1409424132939s.jpg" to "C:\4Chan Archives\wg\5911440\1409424132939s.jpg"
+2014-08-31 4:40:27 PM - Downloading file: "https://1.t.4cdn.org/wg/1409426532666s.jpg" to "C:\4Chan Archives\wg\5911440\1409426532666s.jpg"
+2014-08-31 4:40:27 PM - Downloading file: "https://0.t.4cdn.org/wg/1409430031397s.jpg" to "C:\4Chan Archives\wg\5911440\1409430031397s.jpg"
+2014-08-31 4:40:27 PM - Downloading file: "https://1.t.4cdn.org/wg/1409430897980s.jpg" to "C:\4Chan Archives\wg\5911440\1409430897980s.jpg"
+2014-08-31 4:40:28 PM - Downloading file: "https://0.t.4cdn.org/wg/1409435293081s.jpg" to "C:\4Chan Archives\wg\5911440\1409435293081s.jpg"
+2014-08-31 4:40:28 PM - Downloading file: "https://1.t.4cdn.org/wg/1409435567509s.jpg" to "C:\4Chan Archives\wg\5911440\1409435567509s.jpg"
+2014-08-31 4:40:28 PM - Downloading file: "https://0.t.4cdn.org/wg/1409435873679s.jpg" to "C:\4Chan Archives\wg\5911440\1409435873679s.jpg"
+2014-08-31 4:40:28 PM - Downloading file: "https://1.t.4cdn.org/wg/1409436025165s.jpg" to "C:\4Chan Archives\wg\5911440\1409436025165s.jpg"
+2014-08-31 4:40:28 PM - Downloading file: "https://0.t.4cdn.org/wg/1409437181715s.jpg" to "C:\4Chan Archives\wg\5911440\1409437181715s.jpg"
+2014-08-31 4:40:28 PM - Downloading file: "https://1.t.4cdn.org/wg/1409437431560s.jpg" to "C:\4Chan Archives\wg\5911440\1409437431560s.jpg"
+2014-08-31 4:40:28 PM - Downloading file: "https://0.t.4cdn.org/wg/1409437807680s.jpg" to "C:\4Chan Archives\wg\5911440\1409437807680s.jpg"
+2014-08-31 4:40:28 PM - Downloading file: "https://1.t.4cdn.org/wg/1409438057369s.jpg" to "C:\4Chan Archives\wg\5911440\1409438057369s.jpg"
+2014-08-31 4:40:28 PM - Downloading file: "https://0.t.4cdn.org/wg/1409438301942s.jpg" to "C:\4Chan Archives\wg\5911440\1409438301942s.jpg"
+2014-08-31 4:40:28 PM - Downloading file: "https://1.t.4cdn.org/wg/1409438459939s.jpg" to "C:\4Chan Archives\wg\5911440\1409438459939s.jpg"
+2014-08-31 4:40:28 PM - Downloading file: "https://0.t.4cdn.org/wg/1409438510535s.jpg" to "C:\4Chan Archives\wg\5911440\1409438510535s.jpg"
+2014-08-31 4:40:28 PM - Downloading file: "https://1.t.4cdn.org/wg/1409438579375s.jpg" to "C:\4Chan Archives\wg\5911440\1409438579375s.jpg"
+2014-08-31 4:40:29 PM - Downloading file: "https://0.t.4cdn.org/wg/1409438721976s.jpg" to "C:\4Chan Archives\wg\5911440\1409438721976s.jpg"
+2014-08-31 4:40:29 PM - Downloading file: "https://1.t.4cdn.org/wg/1409444558900s.jpg" to "C:\4Chan Archives\wg\5911440\1409444558900s.jpg"
+2014-08-31 4:40:29 PM - Downloading file: "https://0.t.4cdn.org/wg/1409444973095s.jpg" to "C:\4Chan Archives\wg\5911440\1409444973095s.jpg"
+2014-08-31 4:40:29 PM - Downloading file: "https://1.t.4cdn.org/wg/1409445067721s.jpg" to "C:\4Chan Archives\wg\5911440\1409445067721s.jpg"
+2014-08-31 4:40:29 PM - Downloading file: "https://0.t.4cdn.org/wg/1409446187208s.jpg" to "C:\4Chan Archives\wg\5911440\1409446187208s.jpg"
+2014-08-31 4:40:29 PM - Downloading file: "https://1.t.4cdn.org/wg/1409446817376s.jpg" to "C:\4Chan Archives\wg\5911440\1409446817376s.jpg"
+2014-08-31 4:40:29 PM - Downloading file: "https://0.t.4cdn.org/wg/1409447388224s.jpg" to "C:\4Chan Archives\wg\5911440\1409447388224s.jpg"
+2014-08-31 4:40:29 PM - Downloading file: "https://1.t.4cdn.org/wg/1409452811939s.jpg" to "C:\4Chan Archives\wg\5911440\1409452811939s.jpg"
+2014-08-31 4:40:29 PM - Downloading file: "https://0.t.4cdn.org/wg/1409452869683s.jpg" to "C:\4Chan Archives\wg\5911440\1409452869683s.jpg"
+2014-08-31 4:40:29 PM - Downloading file: "https://1.t.4cdn.org/wg/1409453614467s.jpg" to "C:\4Chan Archives\wg\5911440\1409453614467s.jpg"
+2014-08-31 4:40:30 PM - Downloading file: "https://0.t.4cdn.org/wg/1409454653983s.jpg" to "C:\4Chan Archives\wg\5911440\1409454653983s.jpg"
+2014-08-31 4:40:30 PM - Downloading file: "https://1.t.4cdn.org/wg/1409458811455s.jpg" to "C:\4Chan Archives\wg\5911440\1409458811455s.jpg"
+2014-08-31 4:40:30 PM - Downloading file: "https://0.t.4cdn.org/wg/1409459133401s.jpg" to "C:\4Chan Archives\wg\5911440\1409459133401s.jpg"
+2014-08-31 4:40:30 PM - Downloading file: "https://1.t.4cdn.org/wg/1409459656350s.jpg" to "C:\4Chan Archives\wg\5911440\1409459656350s.jpg"
+2014-08-31 4:40:30 PM - Downloading file: "https://0.t.4cdn.org/wg/1409459705733s.jpg" to "C:\4Chan Archives\wg\5911440\1409459705733s.jpg"
+2014-08-31 4:40:30 PM - Downloading file: "https://1.t.4cdn.org/wg/1409464185165s.jpg" to "C:\4Chan Archives\wg\5911440\1409464185165s.jpg"
+2014-08-31 4:40:30 PM - Downloading file: "https://0.t.4cdn.org/wg/1409466180841s.jpg" to "C:\4Chan Archives\wg\5911440\1409466180841s.jpg"
+2014-08-31 4:40:30 PM - Downloading file: "https://1.t.4cdn.org/wg/1409466577413s.jpg" to "C:\4Chan Archives\wg\5911440\1409466577413s.jpg"
+2014-08-31 4:40:30 PM - Downloading file: "https://0.t.4cdn.org/wg/1409468612939s.jpg" to "C:\4Chan Archives\wg\5911440\1409468612939s.jpg"
+2014-08-31 4:40:30 PM - Downloading file: "https://1.t.4cdn.org/wg/1409468644654s.jpg" to "C:\4Chan Archives\wg\5911440\1409468644654s.jpg"
+2014-08-31 4:40:30 PM - Downloading file: "https://0.t.4cdn.org/wg/1409491109074s.jpg" to "C:\4Chan Archives\wg\5911440\1409491109074s.jpg"
+2014-08-31 4:40:31 PM - Downloading file: "https://1.t.4cdn.org/wg/1409492658631s.jpg" to "C:\4Chan Archives\wg\5911440\1409492658631s.jpg"
+2014-08-31 4:40:31 PM - Downloading file: "https://0.t.4cdn.org/wg/1409493330628s.jpg" to "C:\4Chan Archives\wg\5911440\1409493330628s.jpg"
+2014-08-31 4:40:31 PM - Downloading file: "https://i.4cdn.org/wg/1409508732068.png" to "C:\4Chan Archives\wg\5911440\1409508732068.png"
+2014-08-31 4:40:34 PM - Downloading file: "https://1.t.4cdn.org/wg/1409508732068s.jpg" to "C:\4Chan Archives\wg\5911440\1409508732068s.jpg"
+2014-08-31 4:40:34 PM - Downloading file: "https://i.4cdn.org/wg/1409508825467.png" to "C:\4Chan Archives\wg\5911440\1409508825467.png"
+2014-08-31 4:40:36 PM - Downloading file: "https://0.t.4cdn.org/wg/1409508825467s.jpg" to "C:\4Chan Archives\wg\5911440\1409508825467s.jpg"
+2014-08-31 4:40:36 PM - Downloading file: "https://i.4cdn.org/wg/1409510627071.jpg" to "C:\4Chan Archives\wg\5911440\1409510627071.jpg"
+2014-08-31 4:40:44 PM - Downloading file: "https://1.t.4cdn.org/wg/1409510627071s.jpg" to "C:\4Chan Archives\wg\5911440\1409510627071s.jpg"
+2014-08-31 4:40:45 PM - Downloading file: "https://i.4cdn.org/wg/1409510836269.jpg" to "C:\4Chan Archives\wg\5911440\1409510836269.jpg"
+2014-08-31 4:40:49 PM - Checking if https://boards.4chan.org/g/thread/43888488 is valid..
+2014-08-31 4:40:50 PM - URL was valid.
+2014-08-31 4:40:50 PM - Successfully added thread: https://boards.4chan.org/g/thread/43888488
+2014-08-31 4:40:50 PM - Creating TXT file
+2014-08-31 4:40:50 PM - Writing TXT file.
+2014-08-31 4:40:50 PM - TXT file written successfully.
+2014-08-31 4:40:51 PM - Downloading file: "https://0.t.4cdn.org/wg/1409510836269s.jpg" to "C:\4Chan Archives\wg\5911440\1409510836269s.jpg"
+2014-08-31 4:40:51 PM - Downloading file: "https://i.4cdn.org/wg/1409516946061.jpg" to "C:\4Chan Archives\wg\5911440\1409516946061.jpg"
+2014-08-31 4:40:51 PM - Downloading file: "https://1.t.4cdn.org/wg/1409516946061s.jpg" to "C:\4Chan Archives\wg\5911440\1409516946061s.jpg"
+2014-08-31 4:40:51 PM - Downloading file: "https://i.4cdn.org/wg/1409517166341.jpg" to "C:\4Chan Archives\wg\5911440\1409517166341.jpg"
+2014-08-31 4:40:52 PM - Downloading file: "https://0.t.4cdn.org/wg/1409517166341s.jpg" to "C:\4Chan Archives\wg\5911440\1409517166341s.jpg"
+2014-08-31 4:40:52 PM - Downloading file: "https://i.4cdn.org/wg/1409517345748.png" to "C:\4Chan Archives\wg\5911440\1409517345748.png"
+2014-08-31 4:40:52 PM - Downloading file: "https://1.t.4cdn.org/wg/1409517345748s.jpg" to "C:\4Chan Archives\wg\5911440\1409517345748s.jpg"
+2014-08-31 4:40:53 PM - New files: 135
+2014-08-31 4:40:53 PM - writing index.html file
+2014-08-31 4:40:53 PM - Finished writing index.html file
+2014-08-31 4:40:53 PM - Download Complete
+2014-08-31 4:40:55 PM - Manual update requested for: https://boards.4chan.org/g/thread/43888488
+2014-08-31 4:40:55 PM - Download Request
+2014-08-31 4:40:55 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-08-31 4:40:55 PM - Downloading full thread.
+2014-08-31 4:40:55 PM - Finding files in thread: "wg/5911440"
+2014-08-31 4:40:55 PM - Found 365 matches.
+2014-08-31 4:40:56 PM - New files: 0
+2014-08-31 4:40:56 PM - writing index.html file
+2014-08-31 4:40:56 PM - Finished writing index.html file
+2014-08-31 4:40:56 PM - Download Complete
+2014-08-31 4:40:56 PM - Creating directory C:\4Chan Archives\g\43888488\
+2014-08-31 4:40:56 PM - Download Request
+2014-08-31 4:40:56 PM - Fetching thread: https://boards.4chan.org/g/thread/43888488
+2014-08-31 4:40:56 PM - Downloading full thread.
+2014-08-31 4:40:56 PM - Finding files in thread: "g/43888488"
+2014-08-31 4:40:56 PM - Found 37 matches.
+2014-08-31 4:40:56 PM - Downloading file: "https://s.4cdn.org/css/yotsubluenew.568.css" to "C:\4Chan Archives\g\43888488\yotsubluenew.568.css"
+2014-08-31 4:40:56 PM - Downloading file: "https://s.4cdn.org/css/yotsubanew.568.css" to "C:\4Chan Archives\g\43888488\yotsubanew.568.css"
+2014-08-31 4:40:56 PM - Downloading file: "https://s.4cdn.org/css/futabanew.568.css" to "C:\4Chan Archives\g\43888488\futabanew.568.css"
+2014-08-31 4:40:57 PM - Downloading file: "https://s.4cdn.org/css/burichannew.568.css" to "C:\4Chan Archives\g\43888488\burichannew.568.css"
+2014-08-31 4:40:57 PM - Downloading file: "https://s.4cdn.org/css/photon.568.css" to "C:\4Chan Archives\g\43888488\photon.568.css"
+2014-08-31 4:40:57 PM - Downloading file: "https://s.4cdn.org/css/tomorrow.568.css" to "C:\4Chan Archives\g\43888488\tomorrow.568.css"
+2014-08-31 4:40:57 PM - Downloading file: "https://s.4cdn.org/css/yotsubluemobile.568.css" to "C:\4Chan Archives\g\43888488\yotsubluemobile.568.css"
+2014-08-31 4:40:57 PM - Downloading file: "https://s.4cdn.org/js/core.869.js" to "C:\4Chan Archives\g\43888488\core.869.js"
+2014-08-31 4:40:57 PM - Downloading file: "https://s.4cdn.org/js/extension.869.js" to "C:\4Chan Archives\g\43888488\extension.869.js"
+2014-08-31 4:40:57 PM - Downloading file: "https://i.4cdn.org/g/1409514213388.png" to "C:\4Chan Archives\g\43888488\1409514213388.png"
+2014-08-31 4:40:58 PM - Downloading file: "https://0.t.4cdn.org/g/1409514213388s.jpg" to "C:\4Chan Archives\g\43888488\1409514213388s.jpg"
+2014-08-31 4:40:58 PM - Downloading file: "https://i.4cdn.org/g/1409514241531.jpg" to "C:\4Chan Archives\g\43888488\1409514241531.jpg"
+2014-08-31 4:40:58 PM - Downloading file: "https://1.t.4cdn.org/g/1409514241531s.jpg" to "C:\4Chan Archives\g\43888488\1409514241531s.jpg"
+2014-08-31 4:40:58 PM - Downloading file: "https://i.4cdn.org/g/1409515073156.png" to "C:\4Chan Archives\g\43888488\1409515073156.png"
+2014-08-31 4:40:59 PM - Downloading file: "https://0.t.4cdn.org/g/1409515073156s.jpg" to "C:\4Chan Archives\g\43888488\1409515073156s.jpg"
+2014-08-31 4:40:59 PM - Downloading file: "https://i.4cdn.org/g/1409515374621.jpg" to "C:\4Chan Archives\g\43888488\1409515374621.jpg"
+2014-08-31 4:40:59 PM - Downloading file: "https://1.t.4cdn.org/g/1409515374621s.jpg" to "C:\4Chan Archives\g\43888488\1409515374621s.jpg"
+2014-08-31 4:41:00 PM - Downloading file: "https://i.4cdn.org/g/1409515935353.jpg" to "C:\4Chan Archives\g\43888488\1409515935353.jpg"
+2014-08-31 4:41:01 PM - Downloading file: "https://0.t.4cdn.org/g/1409515935353s.jpg" to "C:\4Chan Archives\g\43888488\1409515935353s.jpg"
+2014-08-31 4:41:01 PM - Downloading file: "https://i.4cdn.org/g/1409516820271.jpg" to "C:\4Chan Archives\g\43888488\1409516820271.jpg"
+2014-08-31 4:41:01 PM - Downloading file: "https://1.t.4cdn.org/g/1409516820271s.jpg" to "C:\4Chan Archives\g\43888488\1409516820271s.jpg"
+2014-08-31 4:41:02 PM - Downloading file: "https://i.4cdn.org/g/1409517274151.png" to "C:\4Chan Archives\g\43888488\1409517274151.png"
+2014-08-31 4:41:02 PM - Downloading file: "https://0.t.4cdn.org/g/1409517274151s.jpg" to "C:\4Chan Archives\g\43888488\1409517274151s.jpg"
+2014-08-31 4:41:02 PM - Downloading file: "https://i.4cdn.org/g/1409517436872.png" to "C:\4Chan Archives\g\43888488\1409517436872.png"
+2014-08-31 4:41:03 PM - Downloading file: "https://1.t.4cdn.org/g/1409517436872s.jpg" to "C:\4Chan Archives\g\43888488\1409517436872s.jpg"
+2014-08-31 4:41:03 PM - Downloading file: "https://i.4cdn.org/g/1409517622243.jpg" to "C:\4Chan Archives\g\43888488\1409517622243.jpg"
+2014-08-31 4:41:03 PM - Downloading file: "https://0.t.4cdn.org/g/1409517622243s.jpg" to "C:\4Chan Archives\g\43888488\1409517622243s.jpg"
+2014-08-31 4:41:03 PM - New files: 27
+2014-08-31 4:41:03 PM - writing index.html file
+2014-08-31 4:41:03 PM - Finished writing index.html file
+2014-08-31 4:41:03 PM - Download Complete
+2014-08-31 4:42:15 PM - Removed thread: http://boards.4chan.org/wg/thread/5911440
+2014-08-31 4:42:15 PM - Removed thread: https://boards.4chan.org/g/thread/43888488
+2014-08-31 4:42:16 PM - looking for TXT file.
+2014-08-31 4:42:22 PM - Found TXT file C:\4Chan Archives\threads.txt
+2014-08-31 4:42:22 PM - Loading data from TXT file..
+2014-08-31 4:42:22 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-08-31 4:42:23 PM - URL was valid.
+2014-08-31 4:42:23 PM - Checking if https://boards.4chan.org/g/thread/43888488 is valid..
+2014-08-31 4:42:24 PM - URL was valid.
+2014-08-31 4:42:34 PM - Logging stopped.
+2014-08-31 4:48:28 PM - Logging started
+2014-08-31 4:48:28 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-08-31 4:49:12 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-08-31 4:49:13 PM - URL was valid.
+2014-08-31 4:49:13 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-08-31 4:49:13 PM - Creating TXT file
+2014-08-31 4:49:13 PM - Writing TXT file.
+2014-08-31 4:49:13 PM - TXT file written successfully.
+2014-08-31 4:49:17 PM - Removed thread: http://boards.4chan.org/wg/thread/5911440
+2014-08-31 4:49:19 PM - looking for TXT file.
+2014-08-31 4:49:21 PM - Found TXT file C:\4Chan Archives\threads.txt
+2014-08-31 4:49:21 PM - Loading data from TXT file..
+2014-08-31 4:49:21 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-08-31 4:49:21 PM - URL was valid.
+2014-08-31 4:49:21 PM - TXT File Contained Valid URL: http://boards.4chan.org/wg/thread/5911440
+2014-08-31 4:49:21 PM - "Images" Requested
+2014-08-31 4:49:21 PM - Auto Download: Yes
+2014-08-31 4:49:21 PM - Interval: 10 Minutes
+2014-08-31 4:49:21 PM - Row added successfully
+2014-08-31 4:49:31 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-08-31 4:49:31 PM - Download Request
+2014-08-31 4:49:31 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-08-31 4:49:32 PM - Finding images in thread: "wg/5911440"
+2014-08-31 4:49:32 PM - Found 355 matches.
+2014-08-31 4:49:32 PM - Download Complete
+2014-08-31 4:49:34 PM - Opening thread http://boards.4chan.org/wg/thread/5911440 for viewing.
+2014-08-31 4:49:46 PM - Opening folder: C:\4Chan Archives\wg\5911440
+2014-08-31 4:49:54 PM - Removed thread: http://boards.4chan.org/wg/thread/5911440
+2014-08-31 4:49:56 PM - Logging stopped.
+2014-08-31 5:27:53 PM - Logging started
+2014-08-31 5:27:53 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-08-31 5:27:57 PM - Logging stopped.
+2014-08-31 8:44:41 PM - Logging started
+2014-08-31 8:44:41 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-08-31 8:44:51 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-08-31 8:44:52 PM - URL was valid.
+2014-08-31 8:44:52 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-08-31 8:44:52 PM - Creating TXT file
+2014-08-31 8:44:52 PM - Writing TXT file.
+2014-08-31 8:44:52 PM - TXT file written successfully.
+2014-08-31 8:44:58 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-08-31 8:44:58 PM - Download Request
+2014-08-31 8:44:58 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-08-31 8:45:00 PM - Downloading full thread.
+2014-08-31 8:45:00 PM - Finding files in thread: "wg/5911440"
+2014-08-31 8:45:00 PM - Found 377 matches.
+2014-08-31 8:45:00 PM - Downloading file: "https://i.4cdn.org/wg/1409519439568.png" to "C:\4Chan Archives\wg\5911440\1409519439568.png"
+2014-08-31 8:45:01 PM - Downloading file: "https://0.t.4cdn.org/wg/1409519439568s.jpg" to "C:\4Chan Archives\wg\5911440\1409519439568s.jpg"
+2014-08-31 8:45:01 PM - Downloading file: "https://i.4cdn.org/wg/1409527356755.png" to "C:\4Chan Archives\wg\5911440\1409527356755.png"
+2014-08-31 8:45:02 PM - Downloading file: "https://1.t.4cdn.org/wg/1409527356755s.jpg" to "C:\4Chan Archives\wg\5911440\1409527356755s.jpg"
+2014-08-31 8:45:02 PM - Downloading file: "https://i.4cdn.org/wg/1409528392826.png" to "C:\4Chan Archives\wg\5911440\1409528392826.png"
+2014-08-31 8:45:02 PM - Downloading file: "https://0.t.4cdn.org/wg/1409528392826s.jpg" to "C:\4Chan Archives\wg\5911440\1409528392826s.jpg"
+2014-08-31 8:45:02 PM - Downloading file: "https://i.4cdn.org/wg/1409530121677.png" to "C:\4Chan Archives\wg\5911440\1409530121677.png"
+2014-08-31 8:45:05 PM - Downloading file: "https://1.t.4cdn.org/wg/1409530121677s.jpg" to "C:\4Chan Archives\wg\5911440\1409530121677s.jpg"
+2014-08-31 8:45:05 PM - New files: 8
+2014-08-31 8:45:05 PM - writing index.html file
+2014-08-31 8:45:05 PM - Finished writing index.html file
+2014-08-31 8:45:05 PM - Download Complete
+2014-08-31 8:47:20 PM - Hiding form.
+2014-08-31 8:47:24 PM - Showing Form.
+2014-08-31 8:47:27 PM - Removed thread: http://boards.4chan.org/wg/thread/5911440
+2014-08-31 8:47:28 PM - Logging stopped.
+2014-09-01 12:34:27 AM - Logging started
+2014-09-01 12:34:27 AM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:34:30 AM - Logging stopped.
+2014-09-01 12:34:38 AM - Logging started
+2014-09-01 12:34:38 AM - Found custom icon at "D:\Documents\Visual Studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:34:44 AM - Logging stopped.
+2014-09-01 10:52:57 AM - Logging started
+2014-09-01 10:52:57 AM - Found custom icon at "D:\Documents\Visual Studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 10:53:02 AM - Logging stopped.
+2014-09-01 10:54:16 AM - Logging started
+2014-09-01 10:54:16 AM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 10:54:19 AM - Logging stopped.
+2014-09-01 11:06:42 AM - Logging started
+2014-09-01 11:06:42 AM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 11:06:54 AM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 11:06:56 AM - URL was valid.
+2014-09-01 11:06:56 AM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:06:56 AM - Creating TXT file
+2014-09-01 11:06:56 AM - Writing TXT file.
+2014-09-01 11:06:56 AM - TXT file written successfully.
+2014-09-01 11:07:00 AM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:07:00 AM - Cross-thread operation not valid: Control 'frm4ChanMain' accessed from a thread other than the thread it was created on.
+2014-09-01 11:07:16 AM - Logging stopped.
+2014-09-01 11:08:41 AM - Logging started
+2014-09-01 11:08:41 AM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 11:08:44 AM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 11:08:45 AM - URL was valid.
+2014-09-01 11:08:45 AM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:08:45 AM - Creating TXT file
+2014-09-01 11:08:45 AM - Writing TXT file.
+2014-09-01 11:08:45 AM - TXT file written successfully.
+2014-09-01 11:08:49 AM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:08:49 AM - Cross-thread operation not valid: Control 'frm4ChanMain' accessed from a thread other than the thread it was created on.
+2014-09-01 11:09:08 AM - Logging stopped.
+2014-09-01 11:10:07 AM - Logging started
+2014-09-01 11:10:07 AM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 11:10:11 AM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 11:10:12 AM - URL was valid.
+2014-09-01 11:10:12 AM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:10:12 AM - Creating TXT file
+2014-09-01 11:10:12 AM - Writing TXT file.
+2014-09-01 11:10:12 AM - TXT file written successfully.
+2014-09-01 11:10:15 AM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:10:15 AM - Cross-thread operation not valid: Control 'frm4ChanMain' accessed from a thread other than the thread it was created on.
+2014-09-01 11:10:17 AM - Logging stopped.
+2014-09-01 11:14:05 AM - Logging started
+2014-09-01 11:14:05 AM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 11:14:08 AM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 11:14:27 AM - URL was valid.
+2014-09-01 11:14:27 AM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:14:27 AM - Creating TXT file
+2014-09-01 11:14:27 AM - Writing TXT file.
+2014-09-01 11:14:27 AM - TXT file written successfully.
+2014-09-01 11:14:29 AM - Logging started
+2014-09-01 11:14:29 AM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 11:14:31 AM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 11:14:33 AM - URL was valid.
+2014-09-01 11:14:33 AM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:14:33 AM - Creating TXT file
+2014-09-01 11:14:33 AM - Writing TXT file.
+2014-09-01 11:14:33 AM - TXT file written successfully.
+2014-09-01 11:14:34 AM - Logging stopped.
+2014-09-01 11:41:35 AM - Logging started
+2014-09-01 11:41:35 AM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 11:41:47 AM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 11:41:49 AM - URL was valid.
+2014-09-01 11:41:49 AM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:41:49 AM - Creating TXT file
+2014-09-01 11:41:49 AM - Writing TXT file.
+2014-09-01 11:41:49 AM - TXT file written successfully.
+2014-09-01 11:41:57 AM - Removed thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:41:58 AM - Logging stopped.
+2014-09-01 11:46:17 AM - Logging started
+2014-09-01 11:46:17 AM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 11:46:22 AM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 11:46:23 AM - URL was valid.
+2014-09-01 11:46:23 AM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:46:23 AM - Creating TXT file
+2014-09-01 11:46:23 AM - Writing TXT file.
+2014-09-01 11:46:23 AM - TXT file written successfully.
+2014-09-01 11:46:25 AM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:46:25 AM - Creating directory C:\4Chan Archives\wg\5911440\
+2014-09-01 11:46:25 AM - Download Request
+2014-09-01 11:46:25 AM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:46:25 AM - Cross-thread operation not valid: Control 'frm4ChanMain' accessed from a thread other than the thread it was created on.
+2014-09-01 11:46:48 AM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:46:48 AM - Download Request
+2014-09-01 11:46:48 AM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:46:48 AM - Cross-thread operation not valid: Control 'frm4ChanMain' accessed from a thread other than the thread it was created on.
+2014-09-01 11:46:48 AM - Download Request
+2014-09-01 11:46:48 AM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:46:48 AM - Cross-thread operation not valid: Control 'frm4ChanMain' accessed from a thread other than the thread it was created on.
+2014-09-01 11:47:26 AM - Logging stopped.
+2014-09-01 11:48:18 AM - Logging started
+2014-09-01 11:48:18 AM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 11:48:27 AM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 11:48:31 AM - URL was valid.
+2014-09-01 11:48:31 AM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:48:31 AM - Creating TXT file
+2014-09-01 11:48:31 AM - Writing TXT file.
+2014-09-01 11:48:31 AM - TXT file written successfully.
+2014-09-01 11:48:32 AM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:48:32 AM - Download Request
+2014-09-01 11:48:32 AM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:48:34 AM - Downloading full thread.
+2014-09-01 11:48:34 AM - Finding files in thread: "wg/5911440"
+2014-09-01 11:48:34 AM - Found 464 matches.
+2014-09-01 11:48:34 AM - Downloading file: "https://s.4cdn.org/image/favicon.ico" to "C:\4Chan Archives\wg\5911440\favicon.ico"
+2014-09-01 11:48:34 AM - Downloading file: "https://s.4cdn.org/css/yotsubanew.568.css" to "C:\4Chan Archives\wg\5911440\yotsubanew.568.css"
+2014-09-01 11:48:34 AM - Downloading file: "https://s.4cdn.org/css/yotsubluenew.568.css" to "C:\4Chan Archives\wg\5911440\yotsubluenew.568.css"
+2014-09-01 11:48:34 AM - Downloading file: "https://s.4cdn.org/css/futabanew.568.css" to "C:\4Chan Archives\wg\5911440\futabanew.568.css"
+2014-09-01 11:48:34 AM - Downloading file: "https://s.4cdn.org/css/burichannew.568.css" to "C:\4Chan Archives\wg\5911440\burichannew.568.css"
+2014-09-01 11:48:35 AM - Downloading file: "https://s.4cdn.org/css/photon.568.css" to "C:\4Chan Archives\wg\5911440\photon.568.css"
+2014-09-01 11:48:35 AM - Downloading file: "https://s.4cdn.org/css/tomorrow.568.css" to "C:\4Chan Archives\wg\5911440\tomorrow.568.css"
+2014-09-01 11:48:35 AM - Downloading file: "https://s.4cdn.org/css/yotsubamobile.568.css" to "C:\4Chan Archives\wg\5911440\yotsubamobile.568.css"
+2014-09-01 11:48:35 AM - Downloading file: "https://s.4cdn.org/js/core.869.js" to "C:\4Chan Archives\wg\5911440\core.869.js"
+2014-09-01 11:48:35 AM - Downloading file: "https://s.4cdn.org/js/extension.869.js" to "C:\4Chan Archives\wg\5911440\extension.869.js"
+2014-09-01 11:48:35 AM - Downloading file: "https://i.4cdn.org/wg/1409291383441.jpg" to "C:\4Chan Archives\wg\5911440\1409291383441.jpg"
+2014-09-01 11:48:38 AM - Downloading file: "https://0.t.4cdn.org/wg/1409291383441s.jpg" to "C:\4Chan Archives\wg\5911440\1409291383441s.jpg"
+2014-09-01 11:48:38 AM - Downloading file: "https://i.4cdn.org/wg/1409291751890.jpg" to "C:\4Chan Archives\wg\5911440\1409291751890.jpg"
+2014-09-01 11:48:38 AM - Downloading file: "https://1.t.4cdn.org/wg/1409291751890s.jpg" to "C:\4Chan Archives\wg\5911440\1409291751890s.jpg"
+2014-09-01 11:48:39 AM - Downloading file: "https://i.4cdn.org/wg/1409291763509.jpg" to "C:\4Chan Archives\wg\5911440\1409291763509.jpg"
+2014-09-01 11:48:39 AM - Downloading file: "https://0.t.4cdn.org/wg/1409291763509s.jpg" to "C:\4Chan Archives\wg\5911440\1409291763509s.jpg"
+2014-09-01 11:48:39 AM - Downloading file: "https://i.4cdn.org/wg/1409292170742.jpg" to "C:\4Chan Archives\wg\5911440\1409292170742.jpg"
+2014-09-01 11:48:41 AM - Downloading file: "https://1.t.4cdn.org/wg/1409292170742s.jpg" to "C:\4Chan Archives\wg\5911440\1409292170742s.jpg"
+2014-09-01 11:48:41 AM - Downloading file: "https://i.4cdn.org/wg/1409293599984.png" to "C:\4Chan Archives\wg\5911440\1409293599984.png"
+2014-09-01 11:48:42 AM - Downloading file: "https://0.t.4cdn.org/wg/1409293599984s.jpg" to "C:\4Chan Archives\wg\5911440\1409293599984s.jpg"
+2014-09-01 11:48:42 AM - Downloading file: "https://i.4cdn.org/wg/1409293688084.png" to "C:\4Chan Archives\wg\5911440\1409293688084.png"
+2014-09-01 11:48:44 AM - Downloading file: "https://1.t.4cdn.org/wg/1409293688084s.jpg" to "C:\4Chan Archives\wg\5911440\1409293688084s.jpg"
+2014-09-01 11:48:44 AM - Downloading file: "https://i.4cdn.org/wg/1409294455589.png" to "C:\4Chan Archives\wg\5911440\1409294455589.png"
+2014-09-01 11:48:45 AM - Downloading file: "https://0.t.4cdn.org/wg/1409294455589s.jpg" to "C:\4Chan Archives\wg\5911440\1409294455589s.jpg"
+2014-09-01 11:48:45 AM - Downloading file: "https://i.4cdn.org/wg/1409295227968.png" to "C:\4Chan Archives\wg\5911440\1409295227968.png"
+2014-09-01 11:48:46 AM - Downloading file: "https://1.t.4cdn.org/wg/1409295227968s.jpg" to "C:\4Chan Archives\wg\5911440\1409295227968s.jpg"
+2014-09-01 11:48:46 AM - Downloading file: "https://i.4cdn.org/wg/1409295260978.png" to "C:\4Chan Archives\wg\5911440\1409295260978.png"
+2014-09-01 11:48:48 AM - Downloading file: "https://0.t.4cdn.org/wg/1409295260978s.jpg" to "C:\4Chan Archives\wg\5911440\1409295260978s.jpg"
+2014-09-01 11:48:48 AM - Downloading file: "https://i.4cdn.org/wg/1409296388532.png" to "C:\4Chan Archives\wg\5911440\1409296388532.png"
+2014-09-01 11:48:51 AM - Downloading file: "https://1.t.4cdn.org/wg/1409296388532s.jpg" to "C:\4Chan Archives\wg\5911440\1409296388532s.jpg"
+2014-09-01 11:48:51 AM - Downloading file: "https://i.4cdn.org/wg/1409296967935.png" to "C:\4Chan Archives\wg\5911440\1409296967935.png"
+2014-09-01 11:48:51 AM - Downloading file: "https://0.t.4cdn.org/wg/1409296967935s.jpg" to "C:\4Chan Archives\wg\5911440\1409296967935s.jpg"
+2014-09-01 11:48:51 AM - Downloading file: "https://i.4cdn.org/wg/1409297669553.png" to "C:\4Chan Archives\wg\5911440\1409297669553.png"
+2014-09-01 11:48:52 AM - Downloading file: "https://1.t.4cdn.org/wg/1409297669553s.jpg" to "C:\4Chan Archives\wg\5911440\1409297669553s.jpg"
+2014-09-01 11:48:52 AM - Downloading file: "https://i.4cdn.org/wg/1409299759519.jpg" to "C:\4Chan Archives\wg\5911440\1409299759519.jpg"
+2014-09-01 11:48:53 AM - Downloading file: "https://0.t.4cdn.org/wg/1409299759519s.jpg" to "C:\4Chan Archives\wg\5911440\1409299759519s.jpg"
+2014-09-01 11:48:53 AM - Downloading file: "https://i.4cdn.org/wg/1409300437485.png" to "C:\4Chan Archives\wg\5911440\1409300437485.png"
+2014-09-01 11:48:56 AM - Downloading file: "https://1.t.4cdn.org/wg/1409300437485s.jpg" to "C:\4Chan Archives\wg\5911440\1409300437485s.jpg"
+2014-09-01 11:48:56 AM - Downloading file: "https://i.4cdn.org/wg/1409301197846.png" to "C:\4Chan Archives\wg\5911440\1409301197846.png"
+2014-09-01 11:48:56 AM - Downloading file: "https://0.t.4cdn.org/wg/1409301197846s.jpg" to "C:\4Chan Archives\wg\5911440\1409301197846s.jpg"
+2014-09-01 11:48:56 AM - Downloading file: "https://i.4cdn.org/wg/1409301269961.jpg" to "C:\4Chan Archives\wg\5911440\1409301269961.jpg"
+2014-09-01 11:48:56 AM - Downloading file: "https://1.t.4cdn.org/wg/1409301269961s.jpg" to "C:\4Chan Archives\wg\5911440\1409301269961s.jpg"
+2014-09-01 11:48:56 AM - Downloading file: "https://i.4cdn.org/wg/1409301996143.webm" to "C:\4Chan Archives\wg\5911440\1409301996143.webm"
+2014-09-01 11:48:57 AM - Downloading file: "https://0.t.4cdn.org/wg/1409301996143s.jpg" to "C:\4Chan Archives\wg\5911440\1409301996143s.jpg"
+2014-09-01 11:48:57 AM - Downloading file: "https://i.4cdn.org/wg/1409309128195.jpg" to "C:\4Chan Archives\wg\5911440\1409309128195.jpg"
+2014-09-01 11:48:57 AM - Downloading file: "https://1.t.4cdn.org/wg/1409309128195s.jpg" to "C:\4Chan Archives\wg\5911440\1409309128195s.jpg"
+2014-09-01 11:48:58 AM - Downloading file: "https://i.4cdn.org/wg/1409322125037.jpg" to "C:\4Chan Archives\wg\5911440\1409322125037.jpg"
+2014-09-01 11:48:58 AM - Downloading file: "https://0.t.4cdn.org/wg/1409322125037s.jpg" to "C:\4Chan Archives\wg\5911440\1409322125037s.jpg"
+2014-09-01 11:48:58 AM - Downloading file: "https://i.4cdn.org/wg/1409323892768.png" to "C:\4Chan Archives\wg\5911440\1409323892768.png"
+2014-09-01 11:49:00 AM - Downloading file: "https://1.t.4cdn.org/wg/1409323892768s.jpg" to "C:\4Chan Archives\wg\5911440\1409323892768s.jpg"
+2014-09-01 11:49:00 AM - Downloading file: "https://i.4cdn.org/wg/1409331520547.png" to "C:\4Chan Archives\wg\5911440\1409331520547.png"
+2014-09-01 11:49:01 AM - Downloading file: "https://0.t.4cdn.org/wg/1409331520547s.jpg" to "C:\4Chan Archives\wg\5911440\1409331520547s.jpg"
+2014-09-01 11:49:02 AM - Downloading file: "https://i.4cdn.org/wg/1409335023076.png" to "C:\4Chan Archives\wg\5911440\1409335023076.png"
+2014-09-01 11:49:02 AM - Downloading file: "https://1.t.4cdn.org/wg/1409335023076s.jpg" to "C:\4Chan Archives\wg\5911440\1409335023076s.jpg"
+2014-09-01 11:49:02 AM - Downloading file: "https://i.4cdn.org/wg/1409336013097.png" to "C:\4Chan Archives\wg\5911440\1409336013097.png"
+2014-09-01 11:49:03 AM - Downloading file: "https://0.t.4cdn.org/wg/1409336013097s.jpg" to "C:\4Chan Archives\wg\5911440\1409336013097s.jpg"
+2014-09-01 11:49:03 AM - Downloading file: "https://i.4cdn.org/wg/1409336167215.png" to "C:\4Chan Archives\wg\5911440\1409336167215.png"
+2014-09-01 11:49:03 AM - Downloading file: "https://1.t.4cdn.org/wg/1409336167215s.jpg" to "C:\4Chan Archives\wg\5911440\1409336167215s.jpg"
+2014-09-01 11:49:03 AM - Downloading file: "https://i.4cdn.org/wg/1409336169281.jpg" to "C:\4Chan Archives\wg\5911440\1409336169281.jpg"
+2014-09-01 11:49:03 AM - Downloading file: "https://0.t.4cdn.org/wg/1409336169281s.jpg" to "C:\4Chan Archives\wg\5911440\1409336169281s.jpg"
+2014-09-01 11:49:04 AM - Downloading file: "https://i.4cdn.org/wg/1409337787067.png" to "C:\4Chan Archives\wg\5911440\1409337787067.png"
+2014-09-01 11:49:07 AM - Downloading file: "https://1.t.4cdn.org/wg/1409337787067s.jpg" to "C:\4Chan Archives\wg\5911440\1409337787067s.jpg"
+2014-09-01 11:49:07 AM - Downloading file: "https://i.4cdn.org/wg/1409338534548.png" to "C:\4Chan Archives\wg\5911440\1409338534548.png"
+2014-09-01 11:49:09 AM - Downloading file: "https://0.t.4cdn.org/wg/1409338534548s.jpg" to "C:\4Chan Archives\wg\5911440\1409338534548s.jpg"
+2014-09-01 11:49:09 AM - Downloading file: "https://i.4cdn.org/wg/1409339602210.png" to "C:\4Chan Archives\wg\5911440\1409339602210.png"
+2014-09-01 11:49:10 AM - Downloading file: "https://1.t.4cdn.org/wg/1409339602210s.jpg" to "C:\4Chan Archives\wg\5911440\1409339602210s.jpg"
+2014-09-01 11:49:10 AM - Downloading file: "https://i.4cdn.org/wg/1409350863833.jpg" to "C:\4Chan Archives\wg\5911440\1409350863833.jpg"
+2014-09-01 11:49:10 AM - Downloading file: "https://0.t.4cdn.org/wg/1409350863833s.jpg" to "C:\4Chan Archives\wg\5911440\1409350863833s.jpg"
+2014-09-01 11:49:10 AM - Downloading file: "https://i.4cdn.org/wg/1409353663452.jpg" to "C:\4Chan Archives\wg\5911440\1409353663452.jpg"
+2014-09-01 11:49:10 AM - Downloading file: "https://1.t.4cdn.org/wg/1409353663452s.jpg" to "C:\4Chan Archives\wg\5911440\1409353663452s.jpg"
+2014-09-01 11:49:10 AM - Downloading file: "https://i.4cdn.org/wg/1409357192081.jpg" to "C:\4Chan Archives\wg\5911440\1409357192081.jpg"
+2014-09-01 11:49:11 AM - Downloading file: "https://0.t.4cdn.org/wg/1409357192081s.jpg" to "C:\4Chan Archives\wg\5911440\1409357192081s.jpg"
+2014-09-01 11:49:11 AM - Downloading file: "https://i.4cdn.org/wg/1409357885619.png" to "C:\4Chan Archives\wg\5911440\1409357885619.png"
+2014-09-01 11:49:12 AM - Downloading file: "https://1.t.4cdn.org/wg/1409357885619s.jpg" to "C:\4Chan Archives\wg\5911440\1409357885619s.jpg"
+2014-09-01 11:49:12 AM - Downloading file: "https://i.4cdn.org/wg/1409358331735.jpg" to "C:\4Chan Archives\wg\5911440\1409358331735.jpg"
+2014-09-01 11:49:12 AM - Downloading file: "https://0.t.4cdn.org/wg/1409358331735s.jpg" to "C:\4Chan Archives\wg\5911440\1409358331735s.jpg"
+2014-09-01 11:49:12 AM - Downloading file: "https://i.4cdn.org/wg/1409358409932.png" to "C:\4Chan Archives\wg\5911440\1409358409932.png"
+2014-09-01 11:49:12 AM - Downloading file: "https://1.t.4cdn.org/wg/1409358409932s.jpg" to "C:\4Chan Archives\wg\5911440\1409358409932s.jpg"
+2014-09-01 11:49:13 AM - Downloading file: "https://i.4cdn.org/wg/1409358877080.jpg" to "C:\4Chan Archives\wg\5911440\1409358877080.jpg"
+2014-09-01 11:49:13 AM - Downloading file: "https://0.t.4cdn.org/wg/1409358877080s.jpg" to "C:\4Chan Archives\wg\5911440\1409358877080s.jpg"
+2014-09-01 11:49:14 AM - Downloading file: "https://i.4cdn.org/wg/1409358935186.png" to "C:\4Chan Archives\wg\5911440\1409358935186.png"
+2014-09-01 11:49:14 AM - Downloading file: "https://1.t.4cdn.org/wg/1409358935186s.jpg" to "C:\4Chan Archives\wg\5911440\1409358935186s.jpg"
+2014-09-01 11:49:14 AM - Downloading file: "https://i.4cdn.org/wg/1409359870303.png" to "C:\4Chan Archives\wg\5911440\1409359870303.png"
+2014-09-01 11:49:16 AM - Downloading file: "https://0.t.4cdn.org/wg/1409359870303s.jpg" to "C:\4Chan Archives\wg\5911440\1409359870303s.jpg"
+2014-09-01 11:49:16 AM - Downloading file: "https://i.4cdn.org/wg/1409360592441.png" to "C:\4Chan Archives\wg\5911440\1409360592441.png"
+2014-09-01 11:49:16 AM - Downloading file: "https://1.t.4cdn.org/wg/1409360592441s.jpg" to "C:\4Chan Archives\wg\5911440\1409360592441s.jpg"
+2014-09-01 11:49:16 AM - Downloading file: "https://i.4cdn.org/wg/1409360627859.png" to "C:\4Chan Archives\wg\5911440\1409360627859.png"
+2014-09-01 11:49:17 AM - Downloading file: "https://0.t.4cdn.org/wg/1409360627859s.jpg" to "C:\4Chan Archives\wg\5911440\1409360627859s.jpg"
+2014-09-01 11:49:17 AM - Downloading file: "https://i.4cdn.org/wg/1409360691219.png" to "C:\4Chan Archives\wg\5911440\1409360691219.png"
+2014-09-01 11:49:17 AM - Downloading file: "https://1.t.4cdn.org/wg/1409360691219s.jpg" to "C:\4Chan Archives\wg\5911440\1409360691219s.jpg"
+2014-09-01 11:49:17 AM - Downloading file: "https://i.4cdn.org/wg/1409360883808.jpg" to "C:\4Chan Archives\wg\5911440\1409360883808.jpg"
+2014-09-01 11:49:18 AM - Downloading file: "https://0.t.4cdn.org/wg/1409360883808s.jpg" to "C:\4Chan Archives\wg\5911440\1409360883808s.jpg"
+2014-09-01 11:49:18 AM - Downloading file: "https://i.4cdn.org/wg/1409360897998.png" to "C:\4Chan Archives\wg\5911440\1409360897998.png"
+2014-09-01 11:49:18 AM - Downloading file: "https://1.t.4cdn.org/wg/1409360897998s.jpg" to "C:\4Chan Archives\wg\5911440\1409360897998s.jpg"
+2014-09-01 11:49:18 AM - Downloading file: "https://i.4cdn.org/wg/1409361012232.jpg" to "C:\4Chan Archives\wg\5911440\1409361012232.jpg"
+2014-09-01 11:49:19 AM - Logging stopped.
+2014-09-01 11:54:26 AM - Logging started
+2014-09-01 11:54:26 AM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 11:54:33 AM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 11:54:34 AM - URL was valid.
+2014-09-01 11:54:34 AM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:54:34 AM - Creating TXT file
+2014-09-01 11:54:34 AM - Writing TXT file.
+2014-09-01 11:54:34 AM - TXT file written successfully.
+2014-09-01 11:54:36 AM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:54:36 AM - Download Request
+2014-09-01 11:54:36 AM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 11:54:37 AM - Downloading full thread.
+2014-09-01 11:54:37 AM - Finding files in thread: "wg/5911440"
+2014-09-01 11:54:37 AM - Found 464 matches.
+2014-09-01 11:54:37 AM - New files: 0
+2014-09-01 11:54:37 AM - writing index.html file
+2014-09-01 11:54:37 AM - Finished writing index.html file
+2014-09-01 11:54:37 AM - Download Complete
+2014-09-01 11:54:46 AM - Logging stopped.
+2014-09-01 12:09:47 PM - Logging started
+2014-09-01 12:09:47 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:09:50 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 12:09:51 PM - URL was valid.
+2014-09-01 12:09:51 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:09:51 PM - Creating TXT file
+2014-09-01 12:09:51 PM - Writing TXT file.
+2014-09-01 12:09:51 PM - TXT file written successfully.
+2014-09-01 12:09:53 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:09:53 PM - Download Request
+2014-09-01 12:09:53 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:09:54 PM - Downloading full thread.
+2014-09-01 12:09:54 PM - Finding files in thread: "wg/5911440"
+2014-09-01 12:09:54 PM - Found 464 matches.
+2014-09-01 12:09:54 PM - New files: 0
+2014-09-01 12:09:54 PM - writing index.html file
+2014-09-01 12:09:54 PM - Finished writing index.html file
+2014-09-01 12:09:54 PM - Download Complete
+2014-09-01 12:10:09 PM - Logging stopped.
+2014-09-01 12:10:25 PM - Logging started
+2014-09-01 12:10:25 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:10:27 PM - Checking if https://boards.4chan.org/g/thread/39894014 is valid..
+2014-09-01 12:10:28 PM - URL was valid.
+2014-09-01 12:10:28 PM - Successfully added thread: https://boards.4chan.org/g/thread/39894014
+2014-09-01 12:10:28 PM - Creating TXT file
+2014-09-01 12:10:28 PM - Writing TXT file.
+2014-09-01 12:10:28 PM - TXT file written successfully.
+2014-09-01 12:10:31 PM - Manual update requested for: https://boards.4chan.org/g/thread/39894014
+2014-09-01 12:10:31 PM - Creating directory C:\4Chan Archives\g\39894014\
+2014-09-01 12:10:31 PM - Download Request
+2014-09-01 12:10:31 PM - Fetching thread: https://boards.4chan.org/g/thread/39894014
+2014-09-01 12:10:31 PM - Downloading full thread.
+2014-09-01 12:10:31 PM - Finding files in thread: "g/39894014"
+2014-09-01 12:10:31 PM - Found 19 matches.
+2014-09-01 12:10:31 PM - Downloading file: "https://s.4cdn.org/css/yotsubluenew.564.css" to "C:\4Chan Archives\g\39894014\yotsubluenew.564.css"
+2014-09-01 12:10:31 PM - Downloading file: "https://s.4cdn.org/css/yotsubanew.564.css" to "C:\4Chan Archives\g\39894014\yotsubanew.564.css"
+2014-09-01 12:10:31 PM - Downloading file: "https://s.4cdn.org/css/futabanew.564.css" to "C:\4Chan Archives\g\39894014\futabanew.564.css"
+2014-09-01 12:10:32 PM - Downloading file: "https://s.4cdn.org/css/burichannew.564.css" to "C:\4Chan Archives\g\39894014\burichannew.564.css"
+2014-09-01 12:10:32 PM - Downloading file: "https://s.4cdn.org/css/photon.564.css" to "C:\4Chan Archives\g\39894014\photon.564.css"
+2014-09-01 12:10:32 PM - Downloading file: "https://s.4cdn.org/css/tomorrow.564.css" to "C:\4Chan Archives\g\39894014\tomorrow.564.css"
+2014-09-01 12:10:32 PM - Downloading file: "https://s.4cdn.org/css/yotsubluemobile.564.css" to "C:\4Chan Archives\g\39894014\yotsubluemobile.564.css"
+2014-09-01 12:10:32 PM - Downloading file: "https://s.4cdn.org/js/core.858.js" to "C:\4Chan Archives\g\39894014\core.858.js"
+2014-09-01 12:10:32 PM - Downloading file: "https://s.4cdn.org/js/extension.858.js" to "C:\4Chan Archives\g\39894014\extension.858.js"
+2014-09-01 12:10:32 PM - Downloading file: "https://s.4cdn.org/image/modicon.gif" to "C:\4Chan Archives\g\39894014\modicon.gif"
+2014-09-01 12:10:32 PM - Downloading file: "https://s.4cdn.org/image/sticky.gif" to "C:\4Chan Archives\g\39894014\sticky.gif"
+2014-09-01 12:10:32 PM - Downloading file: "https://s.4cdn.org/image/closed.gif" to "C:\4Chan Archives\g\39894014\closed.gif"
+2014-09-01 12:10:33 PM - Downloading file: "https://i.4cdn.org/g/1390842451744.png" to "C:\4Chan Archives\g\39894014\1390842451744.png"
+2014-09-01 12:10:33 PM - Opening folder: C:\4Chan Archives\g\39894014
+2014-09-01 12:10:34 PM - Downloading file: "https://0.t.4cdn.org/g/1390842451744s.jpg" to "C:\4Chan Archives\g\39894014\1390842451744s.jpg"
+2014-09-01 12:10:35 PM - New files: 14
+2014-09-01 12:10:35 PM - writing index.html file
+2014-09-01 12:10:35 PM - Finished writing index.html file
+2014-09-01 12:10:35 PM - Download Complete
+2014-09-01 12:10:58 PM - Removed thread: https://boards.4chan.org/g/thread/39894014
+2014-09-01 12:10:59 PM - Logging stopped.
+2014-09-01 12:15:50 PM - Logging started
+2014-09-01 12:15:50 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:15:51 PM - Logging stopped.
+2014-09-01 12:20:37 PM - Logging started
+2014-09-01 12:20:37 PM - Found custom icon at "D:\Documents\Visual Studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:20:38 PM - Logging stopped.
+2014-09-01 12:31:06 PM - Logging started
+2014-09-01 12:31:06 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:31:08 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 12:31:09 PM - URL was not valid.
+2014-09-01 12:31:11 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 12:31:12 PM - URL was valid.
+2014-09-01 12:31:12 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:31:12 PM - Creating TXT file
+2014-09-01 12:31:12 PM - Writing TXT file.
+2014-09-01 12:31:12 PM - TXT file written successfully.
+2014-09-01 12:31:17 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:37:22 PM - Logging started
+2014-09-01 12:37:22 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:37:26 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 12:37:27 PM - URL was valid.
+2014-09-01 12:37:27 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:37:27 PM - Creating TXT file
+2014-09-01 12:37:27 PM - Writing TXT file.
+2014-09-01 12:37:27 PM - TXT file written successfully.
+2014-09-01 12:37:30 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:38:45 PM - Logging started
+2014-09-01 12:38:45 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:38:47 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 12:38:48 PM - URL was valid.
+2014-09-01 12:38:48 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:38:48 PM - Creating TXT file
+2014-09-01 12:38:48 PM - Writing TXT file.
+2014-09-01 12:38:48 PM - TXT file written successfully.
+2014-09-01 12:38:50 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:38:50 PM - Download Request
+2014-09-01 12:38:50 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:38:52 PM - Downloading full thread.
+2014-09-01 12:38:52 PM - Finding files in thread: "wg/5911440"
+2014-09-01 12:38:52 PM - Found 464 matches.
+2014-09-01 12:38:52 PM - New files: 0
+2014-09-01 12:38:52 PM - writing index.html file
+2014-09-01 12:38:52 PM - Finished writing index.html file
+2014-09-01 12:38:52 PM - Download Complete
+2014-09-01 12:41:25 PM - Logging stopped.
+2014-09-01 12:42:16 PM - Logging started
+2014-09-01 12:42:16 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:42:20 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 12:42:21 PM - URL was valid.
+2014-09-01 12:42:21 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:42:21 PM - Creating TXT file
+2014-09-01 12:42:21 PM - Writing TXT file.
+2014-09-01 12:42:21 PM - TXT file written successfully.
+2014-09-01 12:42:23 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:42:23 PM - Download Request
+2014-09-01 12:42:23 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:42:24 PM - Downloading full thread.
+2014-09-01 12:42:24 PM - Finding files in thread: "wg/5911440"
+2014-09-01 12:42:24 PM - Found 464 matches.
+2014-09-01 12:42:24 PM - New files: 0
+2014-09-01 12:42:24 PM - writing index.html file
+2014-09-01 12:42:24 PM - Finished writing index.html file
+2014-09-01 12:42:25 PM - Download Complete
+2014-09-01 12:42:41 PM - Logging stopped.
+2014-09-01 12:42:52 PM - Logging started
+2014-09-01 12:42:52 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:42:54 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 12:42:55 PM - URL was valid.
+2014-09-01 12:42:55 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:42:55 PM - Creating TXT file
+2014-09-01 12:42:55 PM - Writing TXT file.
+2014-09-01 12:42:55 PM - TXT file written successfully.
+2014-09-01 12:42:56 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:42:56 PM - Download Request
+2014-09-01 12:42:56 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:42:58 PM - Downloading full thread.
+2014-09-01 12:42:58 PM - Finding files in thread: "wg/5911440"
+2014-09-01 12:42:58 PM - Found 464 matches.
+2014-09-01 12:42:58 PM - New files: 0
+2014-09-01 12:42:58 PM - writing index.html file
+2014-09-01 12:42:58 PM - Finished writing index.html file
+2014-09-01 12:42:58 PM - Download Complete
+2014-09-01 12:43:10 PM - Checking if http://boards.4chan.org/wg/thread/5914768 is valid..
+2014-09-01 12:43:10 PM - URL was valid.
+2014-09-01 12:43:10 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5914768
+2014-09-01 12:43:10 PM - Creating TXT file
+2014-09-01 12:43:10 PM - Writing TXT file.
+2014-09-01 12:43:10 PM - TXT file written successfully.
+2014-09-01 12:43:18 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5914768
+2014-09-01 12:43:18 PM - Download Request
+2014-09-01 12:43:18 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:43:19 PM - Downloading full thread.
+2014-09-01 12:43:19 PM - Finding files in thread: "wg/5911440"
+2014-09-01 12:43:19 PM - Found 464 matches.
+2014-09-01 12:43:19 PM - New files: 0
+2014-09-01 12:43:19 PM - writing index.html file
+2014-09-01 12:43:19 PM - Finished writing index.html file
+2014-09-01 12:43:19 PM - Download Complete
+2014-09-01 12:43:19 PM - Creating directory C:\4Chan Archives\wg\5914768\
+2014-09-01 12:43:19 PM - Download Request
+2014-09-01 12:43:19 PM - Fetching thread: https://boards.4chan.org/wg/thread/5914768
+2014-09-01 12:43:19 PM - Downloading full thread.
+2014-09-01 12:43:19 PM - Finding files in thread: "wg/5914768"
+2014-09-01 12:43:19 PM - Found 14 matches.
+2014-09-01 12:43:19 PM - Downloading file: "https://s.4cdn.org/image/favicon.ico" to "C:\4Chan Archives\wg\5914768\favicon.ico"
+2014-09-01 12:43:19 PM - Downloading file: "https://s.4cdn.org/css/yotsubanew.568.css" to "C:\4Chan Archives\wg\5914768\yotsubanew.568.css"
+2014-09-01 12:43:20 PM - Downloading file: "https://s.4cdn.org/css/yotsubluenew.568.css" to "C:\4Chan Archives\wg\5914768\yotsubluenew.568.css"
+2014-09-01 12:43:20 PM - Downloading file: "https://s.4cdn.org/css/futabanew.568.css" to "C:\4Chan Archives\wg\5914768\futabanew.568.css"
+2014-09-01 12:43:20 PM - Downloading file: "https://s.4cdn.org/css/burichannew.568.css" to "C:\4Chan Archives\wg\5914768\burichannew.568.css"
+2014-09-01 12:43:20 PM - Downloading file: "https://s.4cdn.org/css/photon.568.css" to "C:\4Chan Archives\wg\5914768\photon.568.css"
+2014-09-01 12:43:20 PM - Downloading file: "https://s.4cdn.org/css/tomorrow.568.css" to "C:\4Chan Archives\wg\5914768\tomorrow.568.css"
+2014-09-01 12:43:20 PM - Downloading file: "https://s.4cdn.org/css/yotsubamobile.568.css" to "C:\4Chan Archives\wg\5914768\yotsubamobile.568.css"
+2014-09-01 12:43:20 PM - Downloading file: "https://s.4cdn.org/js/core.869.js" to "C:\4Chan Archives\wg\5914768\core.869.js"
+2014-09-01 12:43:20 PM - Downloading file: "https://s.4cdn.org/js/extension.869.js" to "C:\4Chan Archives\wg\5914768\extension.869.js"
+2014-09-01 12:43:21 PM - Downloading file: "https://i.4cdn.org/wg/1409589451014.jpg" to "C:\4Chan Archives\wg\5914768\1409589451014.jpg"
+2014-09-01 12:43:23 PM - Downloading file: "https://0.t.4cdn.org/wg/1409589451014s.jpg" to "C:\4Chan Archives\wg\5914768\1409589451014s.jpg"
+2014-09-01 12:43:23 PM - New files: 12
+2014-09-01 12:43:23 PM - writing index.html file
+2014-09-01 12:43:23 PM - Finished writing index.html file
+2014-09-01 12:43:23 PM - Download Complete
+2014-09-01 12:49:49 PM - Logging started
+2014-09-01 12:49:49 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:49:52 PM - Checking if http://boards.4chan.org/wg/thread/5914768 is valid..
+2014-09-01 12:49:53 PM - URL was valid.
+2014-09-01 12:49:53 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5914768
+2014-09-01 12:49:53 PM - Creating TXT file
+2014-09-01 12:49:53 PM - Writing TXT file.
+2014-09-01 12:49:53 PM - TXT file written successfully.
+2014-09-01 12:49:55 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5914768
+2014-09-01 12:49:55 PM - Download Request
+2014-09-01 12:49:55 PM - Fetching thread: https://boards.4chan.org/wg/thread/5914768
+2014-09-01 12:49:55 PM - Downloading full thread.
+2014-09-01 12:49:55 PM - Finding files in thread: "wg/5914768"
+2014-09-01 12:49:55 PM - Found 14 matches.
+2014-09-01 12:49:55 PM - New files: 0
+2014-09-01 12:49:55 PM - writing index.html file
+2014-09-01 12:49:55 PM - Finished writing index.html file
+2014-09-01 12:49:55 PM - Download Complete
+2014-09-01 12:52:26 PM - Logging started
+2014-09-01 12:52:26 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:52:28 PM - Checking if http://boards.4chan.org/wg/thread/5914768 is valid..
+2014-09-01 12:52:29 PM - URL was valid.
+2014-09-01 12:52:29 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5914768
+2014-09-01 12:52:29 PM - Creating TXT file
+2014-09-01 12:52:29 PM - Writing TXT file.
+2014-09-01 12:52:29 PM - TXT file written successfully.
+2014-09-01 12:52:31 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5914768
+2014-09-01 12:52:31 PM - Download Request
+2014-09-01 12:52:31 PM - Fetching thread: https://boards.4chan.org/wg/thread/5914768
+2014-09-01 12:52:32 PM - Downloading full thread.
+2014-09-01 12:52:32 PM - Finding files in thread: "wg/5914768"
+2014-09-01 12:52:32 PM - Found 14 matches.
+2014-09-01 12:52:32 PM - New files: 0
+2014-09-01 12:52:32 PM - writing index.html file
+2014-09-01 12:52:32 PM - Finished writing index.html file
+2014-09-01 12:52:32 PM - Download Complete
+2014-09-01 12:52:38 PM - Logging stopped.
+2014-09-01 12:53:27 PM - Logging started
+2014-09-01 12:53:27 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:53:41 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 12:53:42 PM - URL was valid.
+2014-09-01 12:53:42 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:53:42 PM - Creating TXT file
+2014-09-01 12:53:42 PM - Writing TXT file.
+2014-09-01 12:53:42 PM - TXT file written successfully.
+2014-09-01 12:53:45 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:53:45 PM - Download Request
+2014-09-01 12:53:45 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:53:46 PM - The remote server returned an error: (500) Internal Server Error.
+2014-09-01 12:54:01 PM - Checking if https://boards.4chan.org/g/thread/43897484 is valid..
+2014-09-01 12:54:04 PM - URL was valid.
+2014-09-01 12:54:04 PM - Successfully added thread: https://boards.4chan.org/g/thread/43897484
+2014-09-01 12:54:04 PM - Creating TXT file
+2014-09-01 12:54:04 PM - Writing TXT file.
+2014-09-01 12:54:04 PM - TXT file written successfully.
+2014-09-01 12:54:07 PM - Manual update requested for: https://boards.4chan.org/g/thread/43897484
+2014-09-01 12:54:07 PM - Download Request
+2014-09-01 12:54:07 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 12:54:10 PM - Downloading full thread.
+2014-09-01 12:54:10 PM - Finding files in thread: "wg/5911440"
+2014-09-01 12:54:10 PM - Found 464 matches.
+2014-09-01 12:54:10 PM - New files: 0
+2014-09-01 12:54:10 PM - writing index.html file
+2014-09-01 12:54:10 PM - Finished writing index.html file
+2014-09-01 12:54:10 PM - Download Complete
+2014-09-01 12:54:10 PM - Creating directory C:\4Chan Archives\g\43897484\
+2014-09-01 12:54:10 PM - Download Request
+2014-09-01 12:54:10 PM - Fetching thread: https://boards.4chan.org/g/thread/43897484
+2014-09-01 12:54:12 PM - Downloading full thread.
+2014-09-01 12:54:12 PM - Finding files in thread: "g/43897484"
+2014-09-01 12:54:12 PM - Found 49 matches.
+2014-09-01 12:54:12 PM - Downloading file: "https://s.4cdn.org/css/yotsubluenew.568.css" to "C:\4Chan Archives\g\43897484\yotsubluenew.568.css"
+2014-09-01 12:54:13 PM - Downloading file: "https://s.4cdn.org/css/yotsubanew.568.css" to "C:\4Chan Archives\g\43897484\yotsubanew.568.css"
+2014-09-01 12:54:13 PM - Downloading file: "https://s.4cdn.org/css/futabanew.568.css" to "C:\4Chan Archives\g\43897484\futabanew.568.css"
+2014-09-01 12:54:13 PM - Downloading file: "https://s.4cdn.org/css/burichannew.568.css" to "C:\4Chan Archives\g\43897484\burichannew.568.css"
+2014-09-01 12:54:13 PM - Downloading file: "https://s.4cdn.org/css/photon.568.css" to "C:\4Chan Archives\g\43897484\photon.568.css"
+2014-09-01 12:54:13 PM - Downloading file: "https://s.4cdn.org/css/tomorrow.568.css" to "C:\4Chan Archives\g\43897484\tomorrow.568.css"
+2014-09-01 12:54:13 PM - Downloading file: "https://s.4cdn.org/css/yotsubluemobile.568.css" to "C:\4Chan Archives\g\43897484\yotsubluemobile.568.css"
+2014-09-01 12:54:14 PM - Downloading file: "https://s.4cdn.org/js/core.869.js" to "C:\4Chan Archives\g\43897484\core.869.js"
+2014-09-01 12:54:14 PM - Downloading file: "https://s.4cdn.org/js/extension.869.js" to "C:\4Chan Archives\g\43897484\extension.869.js"
+2014-09-01 12:54:14 PM - Downloading file: "https://i.4cdn.org/g/1409554687483.png" to "C:\4Chan Archives\g\43897484\1409554687483.png"
+2014-09-01 12:54:20 PM - Downloading file: "https://0.t.4cdn.org/g/1409554687483s.jpg" to "C:\4Chan Archives\g\43897484\1409554687483s.jpg"
+2014-09-01 12:54:20 PM - Downloading file: "https://i.4cdn.org/g/1409554858919.png" to "C:\4Chan Archives\g\43897484\1409554858919.png"
+2014-09-01 12:54:20 PM - Downloading file: "https://1.t.4cdn.org/g/1409554858919s.jpg" to "C:\4Chan Archives\g\43897484\1409554858919s.jpg"
+2014-09-01 12:54:20 PM - Downloading file: "https://i.4cdn.org/g/1409555235962.jpg" to "C:\4Chan Archives\g\43897484\1409555235962.jpg"
+2014-09-01 12:54:21 PM - Downloading file: "https://0.t.4cdn.org/g/1409555235962s.jpg" to "C:\4Chan Archives\g\43897484\1409555235962s.jpg"
+2014-09-01 12:54:21 PM - Downloading file: "https://i.4cdn.org/g/1409555753513.jpg" to "C:\4Chan Archives\g\43897484\1409555753513.jpg"
+2014-09-01 12:54:21 PM - Downloading file: "https://1.t.4cdn.org/g/1409555753513s.jpg" to "C:\4Chan Archives\g\43897484\1409555753513s.jpg"
+2014-09-01 12:54:21 PM - Downloading file: "https://i.4cdn.org/g/1409555874267.jpg" to "C:\4Chan Archives\g\43897484\1409555874267.jpg"
+2014-09-01 12:54:22 PM - Downloading file: "https://0.t.4cdn.org/g/1409555874267s.jpg" to "C:\4Chan Archives\g\43897484\1409555874267s.jpg"
+2014-09-01 12:54:22 PM - Downloading file: "https://i.4cdn.org/g/1409557423176.jpg" to "C:\4Chan Archives\g\43897484\1409557423176.jpg"
+2014-09-01 12:54:22 PM - Downloading file: "https://1.t.4cdn.org/g/1409557423176s.jpg" to "C:\4Chan Archives\g\43897484\1409557423176s.jpg"
+2014-09-01 12:54:22 PM - Downloading file: "https://i.4cdn.org/g/1409565730419.jpg" to "C:\4Chan Archives\g\43897484\1409565730419.jpg"
+2014-09-01 12:54:23 PM - Downloading file: "https://0.t.4cdn.org/g/1409565730419s.jpg" to "C:\4Chan Archives\g\43897484\1409565730419s.jpg"
+2014-09-01 12:54:23 PM - Downloading file: "https://i.4cdn.org/g/1409566327093.jpg" to "C:\4Chan Archives\g\43897484\1409566327093.jpg"
+2014-09-01 12:54:24 PM - Downloading file: "https://1.t.4cdn.org/g/1409566327093s.jpg" to "C:\4Chan Archives\g\43897484\1409566327093s.jpg"
+2014-09-01 12:54:24 PM - Downloading file: "https://i.4cdn.org/g/1409566782220.gif" to "C:\4Chan Archives\g\43897484\1409566782220.gif"
+2014-09-01 12:54:25 PM - Downloading file: "https://0.t.4cdn.org/g/1409566782220s.jpg" to "C:\4Chan Archives\g\43897484\1409566782220s.jpg"
+2014-09-01 12:54:26 PM - Downloading file: "https://i.4cdn.org/g/1409575950367.gif" to "C:\4Chan Archives\g\43897484\1409575950367.gif"
+2014-09-01 12:54:26 PM - Downloading file: "https://1.t.4cdn.org/g/1409575950367s.jpg" to "C:\4Chan Archives\g\43897484\1409575950367s.jpg"
+2014-09-01 12:54:26 PM - Downloading file: "https://i.4cdn.org/g/1409578398549.jpg" to "C:\4Chan Archives\g\43897484\1409578398549.jpg"
+2014-09-01 12:54:26 PM - Downloading file: "https://0.t.4cdn.org/g/1409578398549s.jpg" to "C:\4Chan Archives\g\43897484\1409578398549s.jpg"
+2014-09-01 12:54:26 PM - Downloading file: "https://i.4cdn.org/g/1409584427771.png" to "C:\4Chan Archives\g\43897484\1409584427771.png"
+2014-09-01 12:54:26 PM - Downloading file: "https://1.t.4cdn.org/g/1409584427771s.jpg" to "C:\4Chan Archives\g\43897484\1409584427771s.jpg"
+2014-09-01 12:54:26 PM - Downloading file: "https://i.4cdn.org/g/1409584714054.jpg" to "C:\4Chan Archives\g\43897484\1409584714054.jpg"
+2014-09-01 12:54:27 PM - Downloading file: "https://0.t.4cdn.org/g/1409584714054s.jpg" to "C:\4Chan Archives\g\43897484\1409584714054s.jpg"
+2014-09-01 12:54:27 PM - New files: 35
+2014-09-01 12:54:27 PM - writing index.html file
+2014-09-01 12:54:27 PM - Finished writing index.html file
+2014-09-01 12:54:27 PM - Download Complete
+2014-09-01 12:54:57 PM - Logging stopped.
+2014-09-01 12:57:40 PM - Logging started
+2014-09-01 12:57:40 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:57:43 PM - Checking if https://boards.4chan.org/g/thread/43897484 is valid..
+2014-09-01 12:57:45 PM - URL was valid.
+2014-09-01 12:57:45 PM - Successfully added thread: https://boards.4chan.org/g/thread/43897484
+2014-09-01 12:57:45 PM - Creating TXT file
+2014-09-01 12:57:45 PM - Writing TXT file.
+2014-09-01 12:57:45 PM - TXT file written successfully.
+2014-09-01 12:57:46 PM - Manual update requested for: https://boards.4chan.org/g/thread/43897484
+2014-09-01 12:57:46 PM - Download Request
+2014-09-01 12:57:46 PM - Fetching thread: https://boards.4chan.org/g/thread/43897484
+2014-09-01 12:57:47 PM - Downloading full thread.
+2014-09-01 12:57:47 PM - Finding files in thread: "g/43897484"
+2014-09-01 12:57:47 PM - Found 49 matches.
+2014-09-01 12:57:47 PM - New files: 0
+2014-09-01 12:57:47 PM - writing index.html file
+2014-09-01 12:57:47 PM - Finished writing index.html file
+2014-09-01 12:57:47 PM - Download Complete
+2014-09-01 12:57:57 PM - Manual update requested for: https://boards.4chan.org/g/thread/43897484
+2014-09-01 12:57:57 PM - Download Request
+2014-09-01 12:57:57 PM - Fetching thread: https://boards.4chan.org/g/thread/43897484
+2014-09-01 12:57:58 PM - Downloading full thread.
+2014-09-01 12:57:58 PM - Finding files in thread: "g/43897484"
+2014-09-01 12:57:58 PM - Found 49 matches.
+2014-09-01 12:57:58 PM - New files: 0
+2014-09-01 12:57:58 PM - writing index.html file
+2014-09-01 12:57:58 PM - Finished writing index.html file
+2014-09-01 12:57:58 PM - Download Complete
+2014-09-01 12:57:58 PM - Download Request
+2014-09-01 12:57:58 PM - Fetching thread: https://boards.4chan.org/g/thread/43897484
+2014-09-01 12:57:59 PM - Downloading full thread.
+2014-09-01 12:57:59 PM - Finding files in thread: "g/43897484"
+2014-09-01 12:57:59 PM - Found 49 matches.
+2014-09-01 12:57:59 PM - New files: 0
+2014-09-01 12:57:59 PM - writing index.html file
+2014-09-01 12:57:59 PM - Finished writing index.html file
+2014-09-01 12:57:59 PM - Download Complete
+2014-09-01 12:58:08 PM - Logging stopped.
+2014-09-01 12:59:07 PM - Logging started
+2014-09-01 12:59:07 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 12:59:09 PM - Checking if https://boards.4chan.org/g/thread/43897484 is valid..
+2014-09-01 12:59:10 PM - URL was valid.
+2014-09-01 12:59:10 PM - Successfully added thread: https://boards.4chan.org/g/thread/43897484
+2014-09-01 12:59:10 PM - Creating TXT file
+2014-09-01 12:59:10 PM - Writing TXT file.
+2014-09-01 12:59:10 PM - TXT file written successfully.
+2014-09-01 12:59:14 PM - Manual update requested for: https://boards.4chan.org/g/thread/43897484
+2014-09-01 12:59:14 PM - Download Request
+2014-09-01 12:59:14 PM - Fetching thread: https://boards.4chan.org/g/thread/43897484
+2014-09-01 12:59:15 PM - Downloading full thread.
+2014-09-01 12:59:15 PM - Finding files in thread: "g/43897484"
+2014-09-01 12:59:15 PM - Found 49 matches.
+2014-09-01 12:59:15 PM - New files: 0
+2014-09-01 12:59:15 PM - writing index.html file
+2014-09-01 12:59:15 PM - Finished writing index.html file
+2014-09-01 12:59:15 PM - Download Complete
+2014-09-01 12:59:19 PM - Logging stopped.
+2014-09-01 1:03:32 PM - Logging started
+2014-09-01 1:03:32 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 1:03:42 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 1:03:42 PM - URL was not valid.
+2014-09-01 1:03:45 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 1:03:46 PM - URL was valid.
+2014-09-01 1:03:46 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:03:46 PM - Creating TXT file
+2014-09-01 1:03:46 PM - Writing TXT file.
+2014-09-01 1:03:46 PM - TXT file written successfully.
+2014-09-01 1:03:49 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:03:49 PM - Download Request
+2014-09-01 1:03:49 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:03:51 PM - Downloading full thread.
+2014-09-01 1:03:51 PM - Finding files in thread: "wg/5911440"
+2014-09-01 1:03:51 PM - Found 464 matches.
+2014-09-01 1:03:51 PM - New files: 0
+2014-09-01 1:03:51 PM - writing index.html file
+2014-09-01 1:03:51 PM - Finished writing index.html file
+2014-09-01 1:03:51 PM - Download Complete
+2014-09-01 1:03:57 PM - Logging stopped.
+2014-09-01 1:04:33 PM - Logging started
+2014-09-01 1:04:33 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 1:04:36 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 1:04:36 PM - URL was not valid.
+2014-09-01 1:04:38 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 1:04:39 PM - URL was valid.
+2014-09-01 1:04:39 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:04:39 PM - Creating TXT file
+2014-09-01 1:04:39 PM - Writing TXT file.
+2014-09-01 1:04:39 PM - TXT file written successfully.
+2014-09-01 1:04:42 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:04:42 PM - Download Request
+2014-09-01 1:04:42 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:04:45 PM - Downloading full thread.
+2014-09-01 1:04:45 PM - Finding files in thread: "wg/5911440"
+2014-09-01 1:04:45 PM - Found 464 matches.
+2014-09-01 1:04:45 PM - New files: 0
+2014-09-01 1:04:45 PM - writing index.html file
+2014-09-01 1:04:45 PM - Finished writing index.html file
+2014-09-01 1:04:45 PM - Download Complete
+2014-09-01 1:05:06 PM - Logging stopped.
+2014-09-01 1:07:30 PM - Logging started
+2014-09-01 1:07:30 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 1:07:32 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 1:07:33 PM - URL was valid.
+2014-09-01 1:07:33 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:07:33 PM - Creating TXT file
+2014-09-01 1:07:33 PM - Writing TXT file.
+2014-09-01 1:07:33 PM - TXT file written successfully.
+2014-09-01 1:07:36 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:07:36 PM - Download Request
+2014-09-01 1:07:36 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:07:37 PM - Downloading full thread.
+2014-09-01 1:07:37 PM - Finding files in thread: "wg/5911440"
+2014-09-01 1:07:37 PM - Found 464 matches.
+2014-09-01 1:07:37 PM - New files: 0
+2014-09-01 1:07:37 PM - writing index.html file
+2014-09-01 1:07:37 PM - Finished writing index.html file
+2014-09-01 1:07:37 PM - Download Complete
+2014-09-01 1:07:47 PM - Logging stopped.
+2014-09-01 1:08:59 PM - Logging started
+2014-09-01 1:08:59 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 1:09:05 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 1:09:06 PM - URL was valid.
+2014-09-01 1:09:06 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:09:06 PM - Creating TXT file
+2014-09-01 1:09:06 PM - Writing TXT file.
+2014-09-01 1:09:06 PM - TXT file written successfully.
+2014-09-01 1:09:09 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:09:09 PM - Download Request
+2014-09-01 1:09:09 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:09:11 PM - Downloading full thread.
+2014-09-01 1:09:11 PM - Finding files in thread: "wg/5911440"
+2014-09-01 1:09:11 PM - Found 464 matches.
+2014-09-01 1:09:11 PM - New files: 0
+2014-09-01 1:09:11 PM - writing index.html file
+2014-09-01 1:09:11 PM - Finished writing index.html file
+2014-09-01 1:09:11 PM - Download Complete
+2014-09-01 1:11:54 PM - Logging stopped.
+2014-09-01 1:19:04 PM - Logging started
+2014-09-01 1:19:04 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 1:19:09 PM - Logging stopped.
+2014-09-01 1:21:52 PM - Logging started
+2014-09-01 1:21:52 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 1:21:55 PM - Logging stopped.
+2014-09-01 1:22:18 PM - Logging started
+2014-09-01 1:22:18 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 1:22:23 PM - Logging stopped.
+2014-09-01 1:26:14 PM - Logging started
+2014-09-01 1:26:14 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 1:26:18 PM - Logging stopped.
+2014-09-01 1:26:27 PM - Logging started
+2014-09-01 1:26:27 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 1:26:34 PM - Logging stopped.
+2014-09-01 1:26:56 PM - Logging started
+2014-09-01 1:26:56 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 1:27:01 PM - Logging stopped.
+2014-09-01 1:30:35 PM - Logging started
+2014-09-01 1:30:35 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 1:30:55 PM - Logging stopped.
+2014-09-01 1:48:50 PM - Logging started
+2014-09-01 1:48:50 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 1:48:52 PM - Logging stopped.
+2014-09-01 1:48:55 PM - Logging started
+2014-09-01 1:48:55 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 1:49:05 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 1:49:06 PM - URL was valid.
+2014-09-01 1:49:06 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:49:06 PM - Creating TXT file
+2014-09-01 1:49:06 PM - Writing TXT file.
+2014-09-01 1:49:06 PM - TXT file written successfully.
+2014-09-01 1:49:08 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:49:08 PM - Download Request
+2014-09-01 1:49:08 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:49:10 PM - Downloading full thread.
+2014-09-01 1:49:10 PM - Finding files in thread: "wg/5911440"
+2014-09-01 1:49:10 PM - Found 464 matches.
+2014-09-01 1:49:10 PM - New files: 0
+2014-09-01 1:49:10 PM - writing index.html file
+2014-09-01 1:49:10 PM - Finished writing index.html file
+2014-09-01 1:49:10 PM - Download Complete
+2014-09-01 1:49:13 PM - Logging stopped.
+2014-09-01 1:50:18 PM - Logging started
+2014-09-01 1:50:18 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 1:50:19 PM - Logging stopped.
+2014-09-01 1:50:50 PM - Logging started
+2014-09-01 1:50:50 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 1:50:56 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 1:50:56 PM - URL was not valid.
+2014-09-01 1:50:58 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 1:50:58 PM - URL was not valid.
+2014-09-01 1:51:00 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 1:51:01 PM - URL was valid.
+2014-09-01 1:51:01 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:51:01 PM - Creating TXT file
+2014-09-01 1:51:01 PM - Writing TXT file.
+2014-09-01 1:51:01 PM - TXT file written successfully.
+2014-09-01 1:51:03 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:51:03 PM - Download Request
+2014-09-01 1:51:03 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 1:51:04 PM - Downloading full thread.
+2014-09-01 1:51:04 PM - Finding files in thread: "wg/5911440"
+2014-09-01 1:51:04 PM - Found 464 matches.
+2014-09-01 1:51:04 PM - New files: 0
+2014-09-01 1:51:04 PM - writing index.html file
+2014-09-01 1:51:04 PM - Finished writing index.html file
+2014-09-01 1:51:05 PM - Download Complete
+2014-09-01 1:51:09 PM - Opening folder: C:\4Chan Archives\wg\5911440
+2014-09-01 2:00:13 PM - Logging stopped.
+2014-09-01 7:35:00 PM - Logging started
+2014-09-01 7:35:00 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 7:35:02 PM - Logging stopped.
+2014-09-01 7:41:01 PM - Logging started
+2014-09-01 7:41:01 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 7:41:05 PM - Logging stopped.
+2014-09-01 8:59:44 PM - Logging started
+2014-09-01 8:59:44 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 8:59:55 PM - Setting archive path to: C:\4Chan Archives\
+2014-09-01 9:00:01 PM - looking for TXT file.
+2014-09-01 9:00:08 PM - Found TXT file C:\4Chan Archives\threads.txt
+2014-09-01 9:00:08 PM - Loading data from TXT file..
+2014-09-01 9:00:08 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 9:00:09 PM - URL was valid.
+2014-09-01 9:00:09 PM - TXT File Contained Valid URL: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 9:00:09 PM - "Full" Requested
+2014-09-01 9:00:09 PM - Auto Download: No
+2014-09-01 9:00:09 PM - Interval: N/A Minutes
+2014-09-01 9:00:09 PM - Row added successfully
+2014-09-01 9:00:22 PM - Setting archive path to: C:\4Chan Archives\
+2014-09-01 9:00:25 PM - Logging stopped.
+2014-09-01 9:00:48 PM - Logging started
+2014-09-01 9:00:48 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 9:00:49 PM - looking for TXT file.
+2014-09-01 9:00:50 PM - Found TXT file C:\4Chan Archives\threads.txt
+2014-09-01 9:00:50 PM - Loading data from TXT file..
+2014-09-01 9:00:50 PM - Checking if http://boards.4chan.org/wg/thread/5911440 is valid..
+2014-09-01 9:00:52 PM - URL was valid.
+2014-09-01 9:00:52 PM - TXT File Contained Valid URL: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 9:00:52 PM - "Full" Requested
+2014-09-01 9:00:52 PM - Auto Download: No
+2014-09-01 9:00:52 PM - Interval: N/A Minutes
+2014-09-01 9:00:52 PM - Row added successfully
+2014-09-01 9:01:02 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5911440
+2014-09-01 9:01:02 PM - Download Request
+2014-09-01 9:01:02 PM - Fetching thread: https://boards.4chan.org/wg/thread/5911440
+2014-09-01 9:01:03 PM - Downloading full thread.
+2014-09-01 9:01:03 PM - Finding files in thread: "wg/5911440"
+2014-09-01 9:01:03 PM - Found 464 matches.
+2014-09-01 9:01:03 PM - New files: 0
+2014-09-01 9:01:03 PM - writing index.html file
+2014-09-01 9:01:03 PM - Finished writing index.html file
+2014-09-01 9:01:03 PM - Download Complete
+2014-09-01 9:01:20 PM - Logging stopped.
+2014-09-01 9:14:18 PM - Logging started
+2014-09-01 9:14:18 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 9:14:26 PM - Logging stopped.
+2014-09-01 9:16:59 PM - Logging started
+2014-09-01 9:16:59 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 9:17:04 PM - Logging stopped.
+2014-09-01 9:18:25 PM - Logging started
+2014-09-01 9:18:25 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 9:19:21 PM - Logging stopped.
+2014-09-01 9:34:55 PM - Logging started
+2014-09-01 9:34:55 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-01 9:34:56 PM - Logging stopped.
+2014-09-03 7:27:40 PM - Logging started
+2014-09-03 7:27:40 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-03 7:27:46 PM - Logging stopped.
+2014-09-03 7:28:55 PM - Logging started
+2014-09-03 7:28:55 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-03 7:29:03 PM - Logging stopped.
+2014-09-03 9:49:24 PM - Logging started
+2014-09-03 9:49:24 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-09-03 9:49:27 PM - Checking if http://boards.4chan.org/wg/thread/5917402 is valid..
+2014-09-03 9:49:28 PM - URL was valid.
+2014-09-03 9:49:28 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:49:28 PM - Creating TXT file
+2014-09-03 9:49:28 PM - Writing TXT file.
+2014-09-03 9:49:28 PM - TXT file written successfully.
+2014-09-03 9:49:32 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:49:32 PM - Creating directory C:\4Chan Archives\wg\5917402\
+2014-09-03 9:49:32 PM - Download Request
+2014-09-03 9:49:32 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:49:32 PM - Downloading full thread.
+2014-09-03 9:49:32 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:49:32 PM - Found 26 matches.
+2014-09-03 9:49:32 PM - Downloading file: "https://s.4cdn.org/image/favicon.ico" to "C:\4Chan Archives\wg\5917402\favicon.ico"
+2014-09-03 9:49:33 PM - Downloading file: "https://s.4cdn.org/css/yotsubanew.568.css" to "C:\4Chan Archives\wg\5917402\yotsubanew.568.css"
+2014-09-03 9:49:33 PM - Downloading file: "https://s.4cdn.org/css/yotsubluenew.568.css" to "C:\4Chan Archives\wg\5917402\yotsubluenew.568.css"
+2014-09-03 9:49:33 PM - Downloading file: "https://s.4cdn.org/css/futabanew.568.css" to "C:\4Chan Archives\wg\5917402\futabanew.568.css"
+2014-09-03 9:49:33 PM - Downloading file: "https://s.4cdn.org/css/burichannew.568.css" to "C:\4Chan Archives\wg\5917402\burichannew.568.css"
+2014-09-03 9:49:33 PM - Downloading file: "https://s.4cdn.org/css/photon.568.css" to "C:\4Chan Archives\wg\5917402\photon.568.css"
+2014-09-03 9:49:34 PM - Downloading file: "https://s.4cdn.org/css/tomorrow.568.css" to "C:\4Chan Archives\wg\5917402\tomorrow.568.css"
+2014-09-03 9:49:34 PM - Downloading file: "https://s.4cdn.org/css/yotsubamobile.568.css" to "C:\4Chan Archives\wg\5917402\yotsubamobile.568.css"
+2014-09-03 9:49:34 PM - Downloading file: "https://s.4cdn.org/js/core.871.js" to "C:\4Chan Archives\wg\5917402\core.871.js"
+2014-09-03 9:49:34 PM - Downloading file: "https://s.4cdn.org/js/extension.871.js" to "C:\4Chan Archives\wg\5917402\extension.871.js"
+2014-09-03 9:49:35 PM - Downloading file: "https://i.4cdn.org/wg/1409791865955.png" to "C:\4Chan Archives\wg\5917402\1409791865955.png"
+2014-09-03 9:49:37 PM - Downloading file: "https://0.t.4cdn.org/wg/1409791865955s.jpg" to "C:\4Chan Archives\wg\5917402\1409791865955s.jpg"
+2014-09-03 9:49:38 PM - Downloading file: "https://i.4cdn.org/wg/1409792759079.jpg" to "C:\4Chan Archives\wg\5917402\1409792759079.jpg"
+2014-09-03 9:49:38 PM - Downloading file: "https://1.t.4cdn.org/wg/1409792759079s.jpg" to "C:\4Chan Archives\wg\5917402\1409792759079s.jpg"
+2014-09-03 9:49:38 PM - Downloading file: "https://i.4cdn.org/wg/1409793082087.png" to "C:\4Chan Archives\wg\5917402\1409793082087.png"
+2014-09-03 9:49:39 PM - Opening folder: C:\4Chan Archives\wg\5917402
+2014-09-03 9:49:41 PM - Downloading file: "https://0.t.4cdn.org/wg/1409793082087s.jpg" to "C:\4Chan Archives\wg\5917402\1409793082087s.jpg"
+2014-09-03 9:49:41 PM - Downloading file: "https://i.4cdn.org/wg/1409794087379.jpg" to "C:\4Chan Archives\wg\5917402\1409794087379.jpg"
+2014-09-03 9:49:42 PM - Downloading file: "https://1.t.4cdn.org/wg/1409794087379s.jpg" to "C:\4Chan Archives\wg\5917402\1409794087379s.jpg"
+2014-09-03 9:49:42 PM - Downloading file: "https://i.4cdn.org/wg/1409794939036.png" to "C:\4Chan Archives\wg\5917402\1409794939036.png"
+2014-09-03 9:49:43 PM - Downloading file: "https://0.t.4cdn.org/wg/1409794939036s.jpg" to "C:\4Chan Archives\wg\5917402\1409794939036s.jpg"
+2014-09-03 9:49:43 PM - New files: 20
+2014-09-03 9:49:43 PM - writing index.html file
+2014-09-03 9:49:43 PM - Finished writing index.html file
+2014-09-03 9:49:43 PM - Download Complete
+2014-09-03 9:50:00 PM - Checking if http://boards.4chan.org/wg/thread/5917402 is valid..
+2014-09-03 9:50:04 PM - URL was valid.
+2014-09-03 9:50:04 PM - Successfully modified entry: http://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:50:04 PM - Creating TXT file
+2014-09-03 9:50:04 PM - Writing TXT file.
+2014-09-03 9:50:04 PM - TXT file written successfully.
+2014-09-03 9:50:07 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:50:07 PM - Download Request
+2014-09-03 9:50:07 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:50:07 PM - Downloading full thread.
+2014-09-03 9:50:07 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:50:07 PM - Found 26 matches.
+2014-09-03 9:50:07 PM - New files: 0
+2014-09-03 9:50:07 PM - writing index.html file
+2014-09-03 9:50:07 PM - Finished writing index.html file
+2014-09-03 9:50:07 PM - Download Complete
+2014-09-03 9:50:07 PM - Download Request
+2014-09-03 9:50:07 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:50:07 PM - Downloading full thread.
+2014-09-03 9:50:07 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:50:07 PM - Found 26 matches.
+2014-09-03 9:50:07 PM - New files: 0
+2014-09-03 9:50:07 PM - writing index.html file
+2014-09-03 9:50:07 PM - Finished writing index.html file
+2014-09-03 9:50:07 PM - Download Complete
+2014-09-03 9:50:40 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:50:40 PM - Download Request
+2014-09-03 9:50:40 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:50:40 PM - Downloading full thread.
+2014-09-03 9:50:40 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:50:40 PM - Found 26 matches.
+2014-09-03 9:50:40 PM - New files: 0
+2014-09-03 9:50:40 PM - writing index.html file
+2014-09-03 9:50:40 PM - Finished writing index.html file
+2014-09-03 9:50:40 PM - Download Complete
+2014-09-03 9:50:40 PM - Download Request
+2014-09-03 9:50:40 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:50:40 PM - Downloading full thread.
+2014-09-03 9:50:40 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:50:40 PM - Found 26 matches.
+2014-09-03 9:50:40 PM - New files: 0
+2014-09-03 9:50:40 PM - writing index.html file
+2014-09-03 9:50:40 PM - Finished writing index.html file
+2014-09-03 9:50:40 PM - Download Complete
+2014-09-03 9:50:40 PM - Download Request
+2014-09-03 9:50:40 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:50:40 PM - Downloading full thread.
+2014-09-03 9:50:40 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:50:40 PM - Found 26 matches.
+2014-09-03 9:50:40 PM - New files: 0
+2014-09-03 9:50:40 PM - writing index.html file
+2014-09-03 9:50:40 PM - Finished writing index.html file
+2014-09-03 9:50:40 PM - Download Complete
+2014-09-03 9:50:57 PM - Checking if http://boards.4chan.org/wg/thread/5914768 is valid..
+2014-09-03 9:51:04 PM - URL was valid.
+2014-09-03 9:51:04 PM - Successfully added thread: http://boards.4chan.org/wg/thread/5914768
+2014-09-03 9:51:04 PM - Creating TXT file
+2014-09-03 9:51:04 PM - Writing TXT file.
+2014-09-03 9:51:04 PM - TXT file written successfully.
+2014-09-03 9:51:06 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:06 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5914768
+2014-09-03 9:51:06 PM - Download Request
+2014-09-03 9:51:06 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:06 PM - Downloading full thread.
+2014-09-03 9:51:06 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:51:06 PM - Found 26 matches.
+2014-09-03 9:51:06 PM - New files: 0
+2014-09-03 9:51:06 PM - writing index.html file
+2014-09-03 9:51:06 PM - Finished writing index.html file
+2014-09-03 9:51:06 PM - Download Complete
+2014-09-03 9:51:06 PM - Download Request
+2014-09-03 9:51:06 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:06 PM - Downloading full thread.
+2014-09-03 9:51:06 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:51:06 PM - Found 26 matches.
+2014-09-03 9:51:06 PM - New files: 0
+2014-09-03 9:51:06 PM - writing index.html file
+2014-09-03 9:51:06 PM - Finished writing index.html file
+2014-09-03 9:51:06 PM - Download Complete
+2014-09-03 9:51:06 PM - Download Request
+2014-09-03 9:51:06 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:06 PM - Downloading full thread.
+2014-09-03 9:51:06 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:51:06 PM - Found 26 matches.
+2014-09-03 9:51:06 PM - New files: 0
+2014-09-03 9:51:06 PM - writing index.html file
+2014-09-03 9:51:06 PM - Finished writing index.html file
+2014-09-03 9:51:06 PM - Download Complete
+2014-09-03 9:51:06 PM - Download Request
+2014-09-03 9:51:06 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:07 PM - Downloading full thread.
+2014-09-03 9:51:07 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:51:07 PM - Found 26 matches.
+2014-09-03 9:51:07 PM - New files: 0
+2014-09-03 9:51:07 PM - writing index.html file
+2014-09-03 9:51:07 PM - Finished writing index.html file
+2014-09-03 9:51:07 PM - Download Complete
+2014-09-03 9:51:15 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:15 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5914768
+2014-09-03 9:51:15 PM - Download Request
+2014-09-03 9:51:15 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:16 PM - Downloading full thread.
+2014-09-03 9:51:16 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:51:16 PM - Found 26 matches.
+2014-09-03 9:51:16 PM - New files: 0
+2014-09-03 9:51:16 PM - writing index.html file
+2014-09-03 9:51:16 PM - Finished writing index.html file
+2014-09-03 9:51:16 PM - Download Complete
+2014-09-03 9:51:16 PM - Download Request
+2014-09-03 9:51:16 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:16 PM - Downloading full thread.
+2014-09-03 9:51:16 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:51:16 PM - Found 26 matches.
+2014-09-03 9:51:16 PM - New files: 0
+2014-09-03 9:51:16 PM - writing index.html file
+2014-09-03 9:51:16 PM - Finished writing index.html file
+2014-09-03 9:51:16 PM - Download Complete
+2014-09-03 9:51:16 PM - Download Request
+2014-09-03 9:51:16 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:17 PM - Downloading full thread.
+2014-09-03 9:51:17 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:51:17 PM - Found 26 matches.
+2014-09-03 9:51:17 PM - New files: 0
+2014-09-03 9:51:17 PM - writing index.html file
+2014-09-03 9:51:17 PM - Finished writing index.html file
+2014-09-03 9:51:17 PM - Download Complete
+2014-09-03 9:51:17 PM - Download Request
+2014-09-03 9:51:17 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:17 PM - Downloading full thread.
+2014-09-03 9:51:17 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:51:17 PM - Found 26 matches.
+2014-09-03 9:51:17 PM - New files: 0
+2014-09-03 9:51:17 PM - writing index.html file
+2014-09-03 9:51:17 PM - Finished writing index.html file
+2014-09-03 9:51:17 PM - Download Complete
+2014-09-03 9:51:17 PM - Download Request
+2014-09-03 9:51:17 PM - Fetching thread: https://boards.4chan.org/wg/thread/5914768
+2014-09-03 9:51:19 PM - Downloading full thread.
+2014-09-03 9:51:19 PM - Finding files in thread: "wg/5914768"
+2014-09-03 9:51:19 PM - Found 353 matches.
+2014-09-03 9:51:19 PM - Downloading file: "https://s.4cdn.org/js/core.871.js" to "C:\4Chan Archives\wg\5914768\core.871.js"
+2014-09-03 9:51:19 PM - The remote name could not be resolved: 's.4cdn.org'
+2014-09-03 9:51:22 PM - Download Request
+2014-09-03 9:51:22 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:22 PM - Downloading full thread.
+2014-09-03 9:51:22 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:51:22 PM - Found 26 matches.
+2014-09-03 9:51:22 PM - New files: 0
+2014-09-03 9:51:22 PM - writing index.html file
+2014-09-03 9:51:22 PM - Finished writing index.html file
+2014-09-03 9:51:22 PM - Download Complete
+2014-09-03 9:51:27 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:27 PM - Manual update requested for: http://boards.4chan.org/wg/thread/5914768
+2014-09-03 9:51:27 PM - Download Request
+2014-09-03 9:51:27 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:27 PM - Downloading full thread.
+2014-09-03 9:51:27 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:51:27 PM - Found 26 matches.
+2014-09-03 9:51:27 PM - New files: 0
+2014-09-03 9:51:27 PM - writing index.html file
+2014-09-03 9:51:27 PM - Finished writing index.html file
+2014-09-03 9:51:27 PM - Download Complete
+2014-09-03 9:51:27 PM - Download Request
+2014-09-03 9:51:27 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:28 PM - Downloading full thread.
+2014-09-03 9:51:28 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:51:28 PM - Found 26 matches.
+2014-09-03 9:51:28 PM - New files: 0
+2014-09-03 9:51:28 PM - writing index.html file
+2014-09-03 9:51:28 PM - Finished writing index.html file
+2014-09-03 9:51:28 PM - Download Complete
+2014-09-03 9:51:28 PM - Download Request
+2014-09-03 9:51:28 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:28 PM - Downloading full thread.
+2014-09-03 9:51:28 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:51:28 PM - Found 26 matches.
+2014-09-03 9:51:28 PM - New files: 0
+2014-09-03 9:51:28 PM - writing index.html file
+2014-09-03 9:51:28 PM - Finished writing index.html file
+2014-09-03 9:51:28 PM - Download Complete
+2014-09-03 9:51:28 PM - Download Request
+2014-09-03 9:51:28 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:29 PM - Downloading full thread.
+2014-09-03 9:51:29 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:51:29 PM - Found 26 matches.
+2014-09-03 9:51:29 PM - New files: 0
+2014-09-03 9:51:29 PM - writing index.html file
+2014-09-03 9:51:29 PM - Finished writing index.html file
+2014-09-03 9:51:29 PM - Download Complete
+2014-09-03 9:51:29 PM - Download Request
+2014-09-03 9:51:29 PM - Fetching thread: https://boards.4chan.org/wg/thread/5914768
+2014-09-03 9:51:30 PM - Downloading full thread.
+2014-09-03 9:51:30 PM - Finding files in thread: "wg/5914768"
+2014-09-03 9:51:30 PM - Found 353 matches.
+2014-09-03 9:51:30 PM - Downloading file: "https://s.4cdn.org/js/core.871.js" to "C:\4Chan Archives\wg\5914768\core.871.js"
+2014-09-03 9:51:30 PM - The remote name could not be resolved: 's.4cdn.org'
+2014-09-03 9:51:31 PM - Download Request
+2014-09-03 9:51:31 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:32 PM - Downloading full thread.
+2014-09-03 9:51:32 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:51:32 PM - Found 26 matches.
+2014-09-03 9:51:32 PM - New files: 0
+2014-09-03 9:51:32 PM - writing index.html file
+2014-09-03 9:51:32 PM - Finished writing index.html file
+2014-09-03 9:51:32 PM - Download Complete
+2014-09-03 9:51:32 PM - Download Request
+2014-09-03 9:51:32 PM - Fetching thread: https://boards.4chan.org/wg/thread/5914768
+2014-09-03 9:51:33 PM - Downloading full thread.
+2014-09-03 9:51:33 PM - Finding files in thread: "wg/5914768"
+2014-09-03 9:51:33 PM - Found 353 matches.
+2014-09-03 9:51:33 PM - Downloading file: "https://s.4cdn.org/js/core.871.js" to "C:\4Chan Archives\wg\5914768\core.871.js"
+2014-09-03 9:51:33 PM - The remote name could not be resolved: 's.4cdn.org'
+2014-09-03 9:51:34 PM - Download Request
+2014-09-03 9:51:34 PM - Fetching thread: https://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:34 PM - Downloading full thread.
+2014-09-03 9:51:34 PM - Finding files in thread: "wg/5917402"
+2014-09-03 9:51:34 PM - Found 26 matches.
+2014-09-03 9:51:34 PM - New files: 0
+2014-09-03 9:51:34 PM - writing index.html file
+2014-09-03 9:51:34 PM - Finished writing index.html file
+2014-09-03 9:51:34 PM - Download Complete
+2014-09-03 9:51:47 PM - Removed thread: http://boards.4chan.org/wg/thread/5917402
+2014-09-03 9:51:47 PM - Removed thread: http://boards.4chan.org/wg/thread/5914768
+2014-09-03 9:51:51 PM - Logging stopped.
+2014-11-17 5:47:07 PM - Logging started
+2014-11-17 5:47:07 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-11-17 5:47:57 PM - Creating directory
+2014-11-17 5:47:57 PM - Checking if https://boards.4chan.org/wg/thread/5995014 is valid..
+2014-11-17 5:48:01 PM - URL was valid.
+2014-11-17 5:48:01 PM - Successfully added thread: https://boards.4chan.org/wg/thread/5995014
+2014-11-17 5:48:01 PM - Creating TXT file
+2014-11-17 5:48:01 PM - Writing TXT file.
+2014-11-17 5:48:01 PM - TXT file written successfully.
+2014-11-17 5:48:14 PM - Removed thread: https://boards.4chan.org/wg/thread/5995014
+2014-11-17 5:48:18 PM - looking for TXT file.
+2014-11-17 5:48:26 PM - Logging stopped.
+2014-11-17 5:51:52 PM - Logging started
+2014-11-17 5:51:52 PM - Found custom icon at "d:\documents\visual studio 2013\Projects\4chan Archiver\bin\Debug\custom.ico," setting..
+2014-11-17 5:52:16 PM - looking for TXT file.
+2014-11-17 5:52:23 PM - Found TXT file C:\4Chan Archives\threads.txt
+2014-11-17 5:52:23 PM - Loading data from TXT file..
+2014-11-17 5:52:23 PM - Checking if https://boards.4chan.org/wg/thread/5995014 is valid..
+2014-11-17 5:52:23 PM - URL was valid.
+2014-11-17 5:52:23 PM - TXT File Contained Valid URL: https://boards.4chan.org/wg/thread/5995014
+2014-11-17 5:52:23 PM - "Full" Requested
+2014-11-17 5:52:23 PM - Auto Download: No
+2014-11-17 5:52:23 PM - Interval: N/A Minutes
+2014-11-17 5:52:23 PM - Row added successfully
+2014-11-17 5:52:34 PM - Manual update requested for: https://boards.4chan.org/wg/thread/5995014
+2014-11-17 5:52:34 PM - Creating directory C:\4Chan Archives\wg\5995014\
+2014-11-17 5:52:34 PM - Download Request
+2014-11-17 5:52:34 PM - Fetching thread: https://boards.4chan.org/wg/thread/5995014
+2014-11-17 5:52:34 PM - Downloading full thread.
+2014-11-17 5:52:34 PM - Finding files in thread: "wg/5995014"
+2014-11-17 5:52:34 PM - Found 251 matches.
+2014-11-17 5:52:34 PM - Downloading file: "https://s.4cdn.org/image/favicon.ico" to "C:\4Chan Archives\wg\5995014\favicon.ico"
+2014-11-17 5:52:34 PM - Downloading file: "https://s.4cdn.org/css/yotsubanew.587.css" to "C:\4Chan Archives\wg\5995014\yotsubanew.587.css"
+2014-11-17 5:52:34 PM - Downloading file: "https://s.4cdn.org/css/yotsubluenew.587.css" to "C:\4Chan Archives\wg\5995014\yotsubluenew.587.css"
+2014-11-17 5:52:34 PM - Downloading file: "https://s.4cdn.org/css/futabanew.587.css" to "C:\4Chan Archives\wg\5995014\futabanew.587.css"
+2014-11-17 5:52:34 PM - Downloading file: "https://s.4cdn.org/css/burichannew.587.css" to "C:\4Chan Archives\wg\5995014\burichannew.587.css"
+2014-11-17 5:52:34 PM - Downloading file: "https://s.4cdn.org/css/photon.587.css" to "C:\4Chan Archives\wg\5995014\photon.587.css"
+2014-11-17 5:52:34 PM - Downloading file: "https://s.4cdn.org/css/tomorrow.587.css" to "C:\4Chan Archives\wg\5995014\tomorrow.587.css"
+2014-11-17 5:52:35 PM - Downloading file: "https://s.4cdn.org/css/yotsubamobile.587.css" to "C:\4Chan Archives\wg\5995014\yotsubamobile.587.css"
+2014-11-17 5:52:35 PM - Downloading file: "https://s.4cdn.org/js/core.914.js" to "C:\4Chan Archives\wg\5995014\core.914.js"
+2014-11-17 5:52:35 PM - Downloading file: "https://s.4cdn.org/js/extension.914.js" to "C:\4Chan Archives\wg\5995014\extension.914.js"
+2014-11-17 5:52:35 PM - Downloading file: "https://i.4cdn.org/wg/1416103069604.jpg" to "C:\4Chan Archives\wg\5995014\1416103069604.jpg"
+2014-11-17 5:52:35 PM - Downloading file: "https://0.t.4cdn.org/wg/1416103069604s.jpg" to "C:\4Chan Archives\wg\5995014\1416103069604s.jpg"
+2014-11-17 5:52:36 PM - Downloading file: "https://i.4cdn.org/wg/1416105350070.jpg" to "C:\4Chan Archives\wg\5995014\1416105350070.jpg"
+2014-11-17 5:52:36 PM - Downloading file: "https://1.t.4cdn.org/wg/1416105350070s.jpg" to "C:\4Chan Archives\wg\5995014\1416105350070s.jpg"
+2014-11-17 5:52:36 PM - Downloading file: "https://i.4cdn.org/wg/1416108187767.jpg" to "C:\4Chan Archives\wg\5995014\1416108187767.jpg"
+2014-11-17 5:52:36 PM - Downloading file: "https://0.t.4cdn.org/wg/1416108187767s.jpg" to "C:\4Chan Archives\wg\5995014\1416108187767s.jpg"
+2014-11-17 5:52:36 PM - Downloading file: "https://i.4cdn.org/wg/1416108232057.jpg" to "C:\4Chan Archives\wg\5995014\1416108232057.jpg"
+2014-11-17 5:52:36 PM - Downloading file: "https://1.t.4cdn.org/wg/1416108232057s.jpg" to "C:\4Chan Archives\wg\5995014\1416108232057s.jpg"
+2014-11-17 5:52:36 PM - Downloading file: "https://i.4cdn.org/wg/1416108757123.png" to "C:\4Chan Archives\wg\5995014\1416108757123.png"
+2014-11-17 5:52:37 PM - Downloading file: "https://0.t.4cdn.org/wg/1416108757123s.jpg" to "C:\4Chan Archives\wg\5995014\1416108757123s.jpg"
+2014-11-17 5:52:37 PM - Downloading file: "https://i.4cdn.org/wg/1416108893528.jpg" to "C:\4Chan Archives\wg\5995014\1416108893528.jpg"
+2014-11-17 5:52:37 PM - Downloading file: "https://1.t.4cdn.org/wg/1416108893528s.jpg" to "C:\4Chan Archives\wg\5995014\1416108893528s.jpg"
+2014-11-17 5:52:37 PM - Downloading file: "https://i.4cdn.org/wg/1416109174760.png" to "C:\4Chan Archives\wg\5995014\1416109174760.png"
+2014-11-17 5:52:38 PM - Downloading file: "https://0.t.4cdn.org/wg/1416109174760s.jpg" to "C:\4Chan Archives\wg\5995014\1416109174760s.jpg"
+2014-11-17 5:52:38 PM - Downloading file: "https://i.4cdn.org/wg/1416109238643.jpg" to "C:\4Chan Archives\wg\5995014\1416109238643.jpg"
+2014-11-17 5:52:38 PM - Downloading file: "https://1.t.4cdn.org/wg/1416109238643s.jpg" to "C:\4Chan Archives\wg\5995014\1416109238643s.jpg"
+2014-11-17 5:52:38 PM - Downloading file: "https://i.4cdn.org/wg/1416109387937.jpg" to "C:\4Chan Archives\wg\5995014\1416109387937.jpg"
+2014-11-17 5:52:38 PM - Downloading file: "https://0.t.4cdn.org/wg/1416109387937s.jpg" to "C:\4Chan Archives\wg\5995014\1416109387937s.jpg"
+2014-11-17 5:52:38 PM - Downloading file: "https://i.4cdn.org/wg/1416109680135.png" to "C:\4Chan Archives\wg\5995014\1416109680135.png"
+2014-11-17 5:52:38 PM - The remote server returned an error: (400) Bad Request.
+2014-11-17 5:53:05 PM - Manual update requested for: https://boards.4chan.org/wg/thread/5995014
+2014-11-17 5:53:05 PM - Download Request
+2014-11-17 5:53:05 PM - Fetching thread: https://boards.4chan.org/wg/thread/5995014
+2014-11-17 5:53:06 PM - Downloading full thread.
+2014-11-17 5:53:06 PM - Finding files in thread: "wg/5995014"
+2014-11-17 5:53:06 PM - Found 251 matches.
+2014-11-17 5:53:06 PM - Downloading file: "https://i.4cdn.org/wg/1416109680135.png" to "C:\4Chan Archives\wg\5995014\1416109680135.png"
+2014-11-17 5:53:06 PM - Downloading file: "https://1.t.4cdn.org/wg/1416109680135s.jpg" to "C:\4Chan Archives\wg\5995014\1416109680135s.jpg"
+2014-11-17 5:53:07 PM - Downloading file: "https://i.4cdn.org/wg/1416110385181.png" to "C:\4Chan Archives\wg\5995014\1416110385181.png"
+2014-11-17 5:53:07 PM - Downloading file: "https://0.t.4cdn.org/wg/1416110385181s.jpg" to "C:\4Chan Archives\wg\5995014\1416110385181s.jpg"
+2014-11-17 5:53:07 PM - Downloading file: "https://i.4cdn.org/wg/1416114988044.jpg" to "C:\4Chan Archives\wg\5995014\1416114988044.jpg"
+2014-11-17 5:53:07 PM - Downloading file: "https://1.t.4cdn.org/wg/1416114988044s.jpg" to "C:\4Chan Archives\wg\5995014\1416114988044s.jpg"
+2014-11-17 5:53:07 PM - Downloading file: "https://i.4cdn.org/wg/1416115661513.png" to "C:\4Chan Archives\wg\5995014\1416115661513.png"
+2014-11-17 5:53:07 PM - Downloading file: "https://0.t.4cdn.org/wg/1416115661513s.jpg" to "C:\4Chan Archives\wg\5995014\1416115661513s.jpg"
+2014-11-17 5:53:07 PM - Downloading file: "https://i.4cdn.org/wg/1416116053713.png" to "C:\4Chan Archives\wg\5995014\1416116053713.png"
+2014-11-17 5:53:07 PM - Downloading file: "https://1.t.4cdn.org/wg/1416116053713s.jpg" to "C:\4Chan Archives\wg\5995014\1416116053713s.jpg"
+2014-11-17 5:53:07 PM - Downloading file: "https://i.4cdn.org/wg/1416117826788.png" to "C:\4Chan Archives\wg\5995014\1416117826788.png"
+2014-11-17 5:53:09 PM - Downloading file: "https://0.t.4cdn.org/wg/1416117826788s.jpg" to "C:\4Chan Archives\wg\5995014\1416117826788s.jpg"
+2014-11-17 5:53:09 PM - Downloading file: "https://i.4cdn.org/wg/1416118370167.jpg" to "C:\4Chan Archives\wg\5995014\1416118370167.jpg"
+2014-11-17 5:53:09 PM - Downloading file: "https://1.t.4cdn.org/wg/1416118370167s.jpg" to "C:\4Chan Archives\wg\5995014\1416118370167s.jpg"
+2014-11-17 5:53:09 PM - Downloading file: "https://i.4cdn.org/wg/1416118392320.jpg" to "C:\4Chan Archives\wg\5995014\1416118392320.jpg"
+2014-11-17 5:53:09 PM - Downloading file: "https://0.t.4cdn.org/wg/1416118392320s.jpg" to "C:\4Chan Archives\wg\5995014\1416118392320s.jpg"
+2014-11-17 5:53:09 PM - Downloading file: "https://i.4cdn.org/wg/1416118396514.png" to "C:\4Chan Archives\wg\5995014\1416118396514.png"
+2014-11-17 5:53:09 PM - Downloading file: "https://1.t.4cdn.org/wg/1416118396514s.jpg" to "C:\4Chan Archives\wg\5995014\1416118396514s.jpg"
+2014-11-17 5:53:09 PM - Downloading file: "https://i.4cdn.org/wg/1416130773963.jpg" to "C:\4Chan Archives\wg\5995014\1416130773963.jpg"
+2014-11-17 5:53:09 PM - Downloading file: "https://0.t.4cdn.org/wg/1416130773963s.jpg" to "C:\4Chan Archives\wg\5995014\1416130773963s.jpg"
+2014-11-17 5:53:09 PM - Downloading file: "https://i.4cdn.org/wg/1416143845345.png" to "C:\4Chan Archives\wg\5995014\1416143845345.png"
+2014-11-17 5:53:11 PM - Downloading file: "https://1.t.4cdn.org/wg/1416143845345s.jpg" to "C:\4Chan Archives\wg\5995014\1416143845345s.jpg"
+2014-11-17 5:53:11 PM - Downloading file: "https://i.4cdn.org/wg/1416144393040.jpg" to "C:\4Chan Archives\wg\5995014\1416144393040.jpg"
+2014-11-17 5:53:11 PM - Downloading file: "https://0.t.4cdn.org/wg/1416144393040s.jpg" to "C:\4Chan Archives\wg\5995014\1416144393040s.jpg"
+2014-11-17 5:53:11 PM - Downloading file: "https://i.4cdn.org/wg/1416149859877.jpg" to "C:\4Chan Archives\wg\5995014\1416149859877.jpg"
+2014-11-17 5:53:11 PM - Downloading file: "https://1.t.4cdn.org/wg/1416149859877s.jpg" to "C:\4Chan Archives\wg\5995014\1416149859877s.jpg"
+2014-11-17 5:53:11 PM - Downloading file: "https://i.4cdn.org/wg/1416150284471.jpg" to "C:\4Chan Archives\wg\5995014\1416150284471.jpg"
+2014-11-17 5:53:12 PM - Downloading file: "https://0.t.4cdn.org/wg/1416150284471s.jpg" to "C:\4Chan Archives\wg\5995014\1416150284471s.jpg"
+2014-11-17 5:53:12 PM - Downloading file: "https://i.4cdn.org/wg/1416155866086.png" to "C:\4Chan Archives\wg\5995014\1416155866086.png"
+2014-11-17 5:53:13 PM - Downloading file: "https://1.t.4cdn.org/wg/1416155866086s.jpg" to "C:\4Chan Archives\wg\5995014\1416155866086s.jpg"
+2014-11-17 5:53:13 PM - Downloading file: "https://i.4cdn.org/wg/1416163460206.jpg" to "C:\4Chan Archives\wg\5995014\1416163460206.jpg"
+2014-11-17 5:53:13 PM - Downloading file: "https://0.t.4cdn.org/wg/1416163460206s.jpg" to "C:\4Chan Archives\wg\5995014\1416163460206s.jpg"
+2014-11-17 5:53:13 PM - Downloading file: "https://i.4cdn.org/wg/1416163493433.jpg" to "C:\4Chan Archives\wg\5995014\1416163493433.jpg"
+2014-11-17 5:53:14 PM - Downloading file: "https://1.t.4cdn.org/wg/1416163493433s.jpg" to "C:\4Chan Archives\wg\5995014\1416163493433s.jpg"
+2014-11-17 5:53:14 PM - Downloading file: "https://i.4cdn.org/wg/1416163526193.jpg" to "C:\4Chan Archives\wg\5995014\1416163526193.jpg"
+2014-11-17 5:53:14 PM - Downloading file: "https://0.t.4cdn.org/wg/1416163526193s.jpg" to "C:\4Chan Archives\wg\5995014\1416163526193s.jpg"
+2014-11-17 5:53:14 PM - Downloading file: "https://i.4cdn.org/wg/1416163558676.jpg" to "C:\4Chan Archives\wg\5995014\1416163558676.jpg"
+2014-11-17 5:53:14 PM - Downloading file: "https://1.t.4cdn.org/wg/1416163558676s.jpg" to "C:\4Chan Archives\wg\5995014\1416163558676s.jpg"
+2014-11-17 5:53:14 PM - Downloading file: "https://i.4cdn.org/wg/1416163592098.jpg" to "C:\4Chan Archives\wg\5995014\1416163592098.jpg"
+2014-11-17 5:53:14 PM - Downloading file: "https://0.t.4cdn.org/wg/1416163592098s.jpg" to "C:\4Chan Archives\wg\5995014\1416163592098s.jpg"
+2014-11-17 5:53:14 PM - Downloading file: "https://i.4cdn.org/wg/1416163623609.jpg" to "C:\4Chan Archives\wg\5995014\1416163623609.jpg"
+2014-11-17 5:53:14 PM - Downloading file: "https://1.t.4cdn.org/wg/1416163623609s.jpg" to "C:\4Chan Archives\wg\5995014\1416163623609s.jpg"
+2014-11-17 5:53:14 PM - Downloading file: "https://i.4cdn.org/wg/1416163667074.jpg" to "C:\4Chan Archives\wg\5995014\1416163667074.jpg"
+2014-11-17 5:53:14 PM - Downloading file: "https://0.t.4cdn.org/wg/1416163667074s.jpg" to "C:\4Chan Archives\wg\5995014\1416163667074s.jpg"
+2014-11-17 5:53:14 PM - Downloading file: "https://i.4cdn.org/wg/1416163698352.jpg" to "C:\4Chan Archives\wg\5995014\1416163698352.jpg"
+2014-11-17 5:53:15 PM - Downloading file: "https://1.t.4cdn.org/wg/1416163698352s.jpg" to "C:\4Chan Archives\wg\5995014\1416163698352s.jpg"
+2014-11-17 5:53:15 PM - Downloading file: "https://i.4cdn.org/wg/1416163731396.jpg" to "C:\4Chan Archives\wg\5995014\1416163731396.jpg"
+2014-11-17 5:53:15 PM - Downloading file: "https://0.t.4cdn.org/wg/1416163731396s.jpg" to "C:\4Chan Archives\wg\5995014\1416163731396s.jpg"
+2014-11-17 5:53:15 PM - Downloading file: "https://i.4cdn.org/wg/1416163763264.jpg" to "C:\4Chan Archives\wg\5995014\1416163763264.jpg"
+2014-11-17 5:53:15 PM - Downloading file: "https://1.t.4cdn.org/wg/1416163763264s.jpg" to "C:\4Chan Archives\wg\5995014\1416163763264s.jpg"
+2014-11-17 5:53:15 PM - Downloading file: "https://i.4cdn.org/wg/1416164409145.jpg" to "C:\4Chan Archives\wg\5995014\1416164409145.jpg"
+2014-11-17 5:53:15 PM - Downloading file: "https://0.t.4cdn.org/wg/1416164409145s.jpg" to "C:\4Chan Archives\wg\5995014\1416164409145s.jpg"
+2014-11-17 5:53:15 PM - Downloading file: "https://i.4cdn.org/wg/1416164818336.jpg" to "C:\4Chan Archives\wg\5995014\1416164818336.jpg"
+2014-11-17 5:53:16 PM - Downloading file: "https://1.t.4cdn.org/wg/1416164818336s.jpg" to "C:\4Chan Archives\wg\5995014\1416164818336s.jpg"
+2014-11-17 5:53:16 PM - Downloading file: "https://i.4cdn.org/wg/1416167596147.jpg" to "C:\4Chan Archives\wg\5995014\1416167596147.jpg"
+2014-11-17 5:53:16 PM - Downloading file: "https://0.t.4cdn.org/wg/1416167596147s.jpg" to "C:\4Chan Archives\wg\5995014\1416167596147s.jpg"
+2014-11-17 5:53:16 PM - Downloading file: "https://i.4cdn.org/wg/1416169169146.jpg" to "C:\4Chan Archives\wg\5995014\1416169169146.jpg"
+2014-11-17 5:53:16 PM - Downloading file: "https://1.t.4cdn.org/wg/1416169169146s.jpg" to "C:\4Chan Archives\wg\5995014\1416169169146s.jpg"
+2014-11-17 5:53:16 PM - Downloading file: "https://i.4cdn.org/wg/1416169780944.jpg" to "C:\4Chan Archives\wg\5995014\1416169780944.jpg"
+2014-11-17 5:53:17 PM - Downloading file: "https://0.t.4cdn.org/wg/1416169780944s.jpg" to "C:\4Chan Archives\wg\5995014\1416169780944s.jpg"
+2014-11-17 5:53:17 PM - Downloading file: "https://i.4cdn.org/wg/1416171853455.png" to "C:\4Chan Archives\wg\5995014\1416171853455.png"
+2014-11-17 5:53:17 PM - Downloading file: "https://1.t.4cdn.org/wg/1416171853455s.jpg" to "C:\4Chan Archives\wg\5995014\1416171853455s.jpg"
+2014-11-17 5:53:17 PM - Downloading file: "https://i.4cdn.org/wg/1416173086916.png" to "C:\4Chan Archives\wg\5995014\1416173086916.png"
+2014-11-17 5:53:17 PM - Downloading file: "https://0.t.4cdn.org/wg/1416173086916s.jpg" to "C:\4Chan Archives\wg\5995014\1416173086916s.jpg"
+2014-11-17 5:53:17 PM - Downloading file: "https://i.4cdn.org/wg/1416173282164.jpg" to "C:\4Chan Archives\wg\5995014\1416173282164.jpg"
+2014-11-17 5:53:17 PM - Downloading file: "https://1.t.4cdn.org/wg/1416173282164s.jpg" to "C:\4Chan Archives\wg\5995014\1416173282164s.jpg"
+2014-11-17 5:53:17 PM - Downloading file: "https://i.4cdn.org/wg/1416176296039.png" to "C:\4Chan Archives\wg\5995014\1416176296039.png"
+2014-11-17 5:53:17 PM - Downloading file: "https://0.t.4cdn.org/wg/1416176296039s.jpg" to "C:\4Chan Archives\wg\5995014\1416176296039s.jpg"
+2014-11-17 5:53:17 PM - Downloading file: "https://i.4cdn.org/wg/1416177886166.png" to "C:\4Chan Archives\wg\5995014\1416177886166.png"
+2014-11-17 5:53:18 PM - Downloading file: "https://1.t.4cdn.org/wg/1416177886166s.jpg" to "C:\4Chan Archives\wg\5995014\1416177886166s.jpg"
+2014-11-17 5:53:18 PM - Downloading file: "https://i.4cdn.org/wg/1416178009165.jpg" to "C:\4Chan Archives\wg\5995014\1416178009165.jpg"
+2014-11-17 5:53:18 PM - Downloading file: "https://0.t.4cdn.org/wg/1416178009165s.jpg" to "C:\4Chan Archives\wg\5995014\1416178009165s.jpg"
+2014-11-17 5:53:18 PM - Downloading file: "https://i.4cdn.org/wg/1416179744565.png" to "C:\4Chan Archives\wg\5995014\1416179744565.png"
+2014-11-17 5:53:19 PM - Downloading file: "https://1.t.4cdn.org/wg/1416179744565s.jpg" to "C:\4Chan Archives\wg\5995014\1416179744565s.jpg"
+2014-11-17 5:53:19 PM - Downloading file: "https://i.4cdn.org/wg/1416180400387.png" to "C:\4Chan Archives\wg\5995014\1416180400387.png"
+2014-11-17 5:53:19 PM - Downloading file: "https://0.t.4cdn.org/wg/1416180400387s.jpg" to "C:\4Chan Archives\wg\5995014\1416180400387s.jpg"
+2014-11-17 5:53:19 PM - Downloading file: "https://i.4cdn.org/wg/1416190203443.png" to "C:\4Chan Archives\wg\5995014\1416190203443.png"
+2014-11-17 5:53:19 PM - Downloading file: "https://1.t.4cdn.org/wg/1416190203443s.jpg" to "C:\4Chan Archives\wg\5995014\1416190203443s.jpg"
+2014-11-17 5:53:20 PM - Downloading file: "https://i.4cdn.org/wg/1416191238667.jpg" to "C:\4Chan Archives\wg\5995014\1416191238667.jpg"
+2014-11-17 5:53:20 PM - Downloading file: "https://0.t.4cdn.org/wg/1416191238667s.jpg" to "C:\4Chan Archives\wg\5995014\1416191238667s.jpg"
+2014-11-17 5:53:20 PM - Downloading file: "https://i.4cdn.org/wg/1416191950782.jpg" to "C:\4Chan Archives\wg\5995014\1416191950782.jpg"
+2014-11-17 5:53:20 PM - Downloading file: "https://1.t.4cdn.org/wg/1416191950782s.jpg" to "C:\4Chan Archives\wg\5995014\1416191950782s.jpg"
+2014-11-17 5:53:20 PM - Downloading file: "https://i.4cdn.org/wg/1416192270960.png" to "C:\4Chan Archives\wg\5995014\1416192270960.png"
+2014-11-17 5:53:20 PM - Downloading file: "https://0.t.4cdn.org/wg/1416192270960s.jpg" to "C:\4Chan Archives\wg\5995014\1416192270960s.jpg"
+2014-11-17 5:53:20 PM - Downloading file: "https://i.4cdn.org/wg/1416193437650.png" to "C:\4Chan Archives\wg\5995014\1416193437650.png"
+2014-11-17 5:53:21 PM - Downloading file: "https://1.t.4cdn.org/wg/1416193437650s.jpg" to "C:\4Chan Archives\wg\5995014\1416193437650s.jpg"
+2014-11-17 5:53:21 PM - Downloading file: "https://i.4cdn.org/wg/1416195185790.jpg" to "C:\4Chan Archives\wg\5995014\1416195185790.jpg"
+2014-11-17 5:53:21 PM - Downloading file: "https://0.t.4cdn.org/wg/1416195185790s.jpg" to "C:\4Chan Archives\wg\5995014\1416195185790s.jpg"
+2014-11-17 5:53:21 PM - Downloading file: "https://i.4cdn.org/wg/1416196497314.png" to "C:\4Chan Archives\wg\5995014\1416196497314.png"
+2014-11-17 5:53:21 PM - Downloading file: "https://1.t.4cdn.org/wg/1416196497314s.jpg" to "C:\4Chan Archives\wg\5995014\1416196497314s.jpg"
+2014-11-17 5:53:21 PM - Downloading file: "https://i.4cdn.org/wg/1416199381279.png" to "C:\4Chan Archives\wg\5995014\1416199381279.png"
+2014-11-17 5:53:22 PM - Downloading file: "https://0.t.4cdn.org/wg/1416199381279s.jpg" to "C:\4Chan Archives\wg\5995014\1416199381279s.jpg"
+2014-11-17 5:53:22 PM - Downloading file: "https://i.4cdn.org/wg/1416204358565.png" to "C:\4Chan Archives\wg\5995014\1416204358565.png"
+2014-11-17 5:53:23 PM - Downloading file: "https://1.t.4cdn.org/wg/1416204358565s.jpg" to "C:\4Chan Archives\wg\5995014\1416204358565s.jpg"
+2014-11-17 5:53:23 PM - Downloading file: "https://i.4cdn.org/wg/1416211996088.jpg" to "C:\4Chan Archives\wg\5995014\1416211996088.jpg"
+2014-11-17 5:53:23 PM - Downloading file: "https://0.t.4cdn.org/wg/1416211996088s.jpg" to "C:\4Chan Archives\wg\5995014\1416211996088s.jpg"
+2014-11-17 5:53:23 PM - Downloading file: "https://i.4cdn.org/wg/1416213953361.jpg" to "C:\4Chan Archives\wg\5995014\1416213953361.jpg"
+2014-11-17 5:53:23 PM - Downloading file: "https://1.t.4cdn.org/wg/1416213953361s.jpg" to "C:\4Chan Archives\wg\5995014\1416213953361s.jpg"
+2014-11-17 5:53:23 PM - Downloading file: "https://i.4cdn.org/wg/1416219619567.jpg" to "C:\4Chan Archives\wg\5995014\1416219619567.jpg"
+2014-11-17 5:53:23 PM - Downloading file: "https://0.t.4cdn.org/wg/1416219619567s.jpg" to "C:\4Chan Archives\wg\5995014\1416219619567s.jpg"
+2014-11-17 5:53:23 PM - Downloading file: "https://i.4cdn.org/wg/1416220947065.jpg" to "C:\4Chan Archives\wg\5995014\1416220947065.jpg"
+2014-11-17 5:53:24 PM - Downloading file: "https://1.t.4cdn.org/wg/1416220947065s.jpg" to "C:\4Chan Archives\wg\5995014\1416220947065s.jpg"
+2014-11-17 5:53:24 PM - Downloading file: "https://i.4cdn.org/wg/1416221349567.jpg" to "C:\4Chan Archives\wg\5995014\1416221349567.jpg"
+2014-11-17 5:53:24 PM - Downloading file: "https://0.t.4cdn.org/wg/1416221349567s.jpg" to "C:\4Chan Archives\wg\5995014\1416221349567s.jpg"
+2014-11-17 5:53:24 PM - Downloading file: "https://i.4cdn.org/wg/1416237141708.png" to "C:\4Chan Archives\wg\5995014\1416237141708.png"
+2014-11-17 5:53:24 PM - Downloading file: "https://1.t.4cdn.org/wg/1416237141708s.jpg" to "C:\4Chan Archives\wg\5995014\1416237141708s.jpg"
+2014-11-17 5:53:24 PM - Downloading file: "https://i.4cdn.org/wg/1416237885654.png" to "C:\4Chan Archives\wg\5995014\1416237885654.png"
+2014-11-17 5:53:26 PM - Downloading file: "https://0.t.4cdn.org/wg/1416237885654s.jpg" to "C:\4Chan Archives\wg\5995014\1416237885654s.jpg"
+2014-11-17 5:53:26 PM - Downloading file: "https://i.4cdn.org/wg/1416238663488.png" to "C:\4Chan Archives\wg\5995014\1416238663488.png"
+2014-11-17 5:53:26 PM - Downloading file: "https://1.t.4cdn.org/wg/1416238663488s.jpg" to "C:\4Chan Archives\wg\5995014\1416238663488s.jpg"
+2014-11-17 5:53:26 PM - Downloading file: "https://i.4cdn.org/wg/1416243988898.jpg" to "C:\4Chan Archives\wg\5995014\1416243988898.jpg"
+2014-11-17 5:53:27 PM - Downloading file: "https://0.t.4cdn.org/wg/1416243988898s.jpg" to "C:\4Chan Archives\wg\5995014\1416243988898s.jpg"
+2014-11-17 5:53:27 PM - Downloading file: "https://i.4cdn.org/wg/1416244726738.jpg" to "C:\4Chan Archives\wg\5995014\1416244726738.jpg"
+2014-11-17 5:53:27 PM - Downloading file: "https://1.t.4cdn.org/wg/1416244726738s.jpg" to "C:\4Chan Archives\wg\5995014\1416244726738s.jpg"
+2014-11-17 5:53:27 PM - Downloading file: "https://i.4cdn.org/wg/1416244889789.jpg" to "C:\4Chan Archives\wg\5995014\1416244889789.jpg"
+2014-11-17 5:53:27 PM - Downloading file: "https://0.t.4cdn.org/wg/1416244889789s.jpg" to "C:\4Chan Archives\wg\5995014\1416244889789s.jpg"
+2014-11-17 5:53:27 PM - Downloading file: "https://i.4cdn.org/wg/1416245396819.jpg" to "C:\4Chan Archives\wg\5995014\1416245396819.jpg"
+2014-11-17 5:53:28 PM - Downloading file: "https://1.t.4cdn.org/wg/1416245396819s.jpg" to "C:\4Chan Archives\wg\5995014\1416245396819s.jpg"
+2014-11-17 5:53:28 PM - Downloading file: "https://i.4cdn.org/wg/1416245544359.png" to "C:\4Chan Archives\wg\5995014\1416245544359.png"
+2014-11-17 5:53:28 PM - The remote server returned an error: (400) Bad Request.
+2014-11-17 5:53:30 PM - Download Request
+2014-11-17 5:53:30 PM - Fetching thread: https://boards.4chan.org/wg/thread/5995014
+2014-11-17 5:53:30 PM - Downloading full thread.
+2014-11-17 5:53:30 PM - Finding files in thread: "wg/5995014"
+2014-11-17 5:53:30 PM - Found 251 matches.
+2014-11-17 5:53:30 PM - Downloading file: "https://i.4cdn.org/wg/1416245544359.png" to "C:\4Chan Archives\wg\5995014\1416245544359.png"
+2014-11-17 5:53:31 PM - Downloading file: "https://0.t.4cdn.org/wg/1416245544359s.jpg" to "C:\4Chan Archives\wg\5995014\1416245544359s.jpg"
+2014-11-17 5:53:31 PM - Downloading file: "https://i.4cdn.org/wg/1416248439168.jpg" to "C:\4Chan Archives\wg\5995014\1416248439168.jpg"
+2014-11-17 5:53:31 PM - Downloading file: "https://1.t.4cdn.org/wg/1416248439168s.jpg" to "C:\4Chan Archives\wg\5995014\1416248439168s.jpg"
+2014-11-17 5:53:31 PM - Downloading file: "https://i.4cdn.org/wg/1416249426244.jpg" to "C:\4Chan Archives\wg\5995014\1416249426244.jpg"
+2014-11-17 5:53:31 PM - Downloading file: "https://0.t.4cdn.org/wg/1416249426244s.jpg" to "C:\4Chan Archives\wg\5995014\1416249426244s.jpg"
+2014-11-17 5:53:31 PM - Downloading file: "https://i.4cdn.org/wg/1416249565749.jpg" to "C:\4Chan Archives\wg\5995014\1416249565749.jpg"
+2014-11-17 5:53:31 PM - Downloading file: "https://1.t.4cdn.org/wg/1416249565749s.jpg" to "C:\4Chan Archives\wg\5995014\1416249565749s.jpg"
+2014-11-17 5:53:31 PM - Downloading file: "https://i.4cdn.org/wg/1416249769090.jpg" to "C:\4Chan Archives\wg\5995014\1416249769090.jpg"
+2014-11-17 5:53:31 PM - Downloading file: "https://0.t.4cdn.org/wg/1416249769090s.jpg" to "C:\4Chan Archives\wg\5995014\1416249769090s.jpg"
+2014-11-17 5:53:31 PM - Downloading file: "https://i.4cdn.org/wg/1416250615248.png" to "C:\4Chan Archives\wg\5995014\1416250615248.png"
+2014-11-17 5:53:31 PM - Downloading file: "https://1.t.4cdn.org/wg/1416250615248s.jpg" to "C:\4Chan Archives\wg\5995014\1416250615248s.jpg"
+2014-11-17 5:53:32 PM - Downloading file: "https://i.4cdn.org/wg/1416251200707.jpg" to "C:\4Chan Archives\wg\5995014\1416251200707.jpg"
+2014-11-17 5:53:32 PM - Downloading file: "https://0.t.4cdn.org/wg/1416251200707s.jpg" to "C:\4Chan Archives\wg\5995014\1416251200707s.jpg"
+2014-11-17 5:53:32 PM - Downloading file: "https://i.4cdn.org/wg/1416251588038.jpg" to "C:\4Chan Archives\wg\5995014\1416251588038.jpg"
+2014-11-17 5:53:32 PM - Downloading file: "https://1.t.4cdn.org/wg/1416251588038s.jpg" to "C:\4Chan Archives\wg\5995014\1416251588038s.jpg"
+2014-11-17 5:53:32 PM - Downloading file: "https://i.4cdn.org/wg/1416251968107.jpg" to "C:\4Chan Archives\wg\5995014\1416251968107.jpg"
+2014-11-17 5:53:33 PM - Downloading file: "https://0.t.4cdn.org/wg/1416251968107s.jpg" to "C:\4Chan Archives\wg\5995014\1416251968107s.jpg"
+2014-11-17 5:53:33 PM - Downloading file: "https://i.4cdn.org/wg/1416252498283.png" to "C:\4Chan Archives\wg\5995014\1416252498283.png"
+2014-11-17 5:53:33 PM - Downloading file: "https://1.t.4cdn.org/wg/1416252498283s.jpg" to "C:\4Chan Archives\wg\5995014\1416252498283s.jpg"
+2014-11-17 5:53:33 PM - Downloading file: "https://i.4cdn.org/wg/1416259047187.jpg" to "C:\4Chan Archives\wg\5995014\1416259047187.jpg"
+2014-11-17 5:53:33 PM - Downloading file: "https://0.t.4cdn.org/wg/1416259047187s.jpg" to "C:\4Chan Archives\wg\5995014\1416259047187s.jpg"
+2014-11-17 5:53:33 PM - Downloading file: "https://i.4cdn.org/wg/1416261334848.jpg" to "C:\4Chan Archives\wg\5995014\1416261334848.jpg"
+2014-11-17 5:53:33 PM - Downloading file: "https://1.t.4cdn.org/wg/1416261334848s.jpg" to "C:\4Chan Archives\wg\5995014\1416261334848s.jpg"
+2014-11-17 5:53:33 PM - New files: 24
+2014-11-17 5:53:33 PM - writing index.html file
+2014-11-17 5:53:33 PM - Finished writing index.html file
+2014-11-17 5:53:33 PM - Download Complete
+2014-11-17 5:53:49 PM - Removed thread: https://boards.4chan.org/wg/thread/5995014
+2014-11-17 5:53:56 PM - Logging stopped.
